@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Typography
+title: Scrum Basics
 parent: Understanding and Applying Scrum
 nav_order: 1
 ---
