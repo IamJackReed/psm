@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Understanding and Applying Scrum
-nav_order: 2
+nav_order: 1
 has_children: true
 permalink: /docs/understanding-and-applying-scrum
 ---
 
-# Scrum Basics
+# Understanding and Applying Scrum
 
 ## A Better Way Of Building Products
 
