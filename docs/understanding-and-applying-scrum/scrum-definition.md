@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Scrum Definition
-parent: Scrum Basics
-nav_order: 1
+parent: Understanding and Applying Scrum
+nav_order: 2
 ---
 
-# Typography
+# Scrum Definition
 {: .no_toc }
 
 ## Table of contents

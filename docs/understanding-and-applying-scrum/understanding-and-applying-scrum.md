@@ -12,3 +12,7 @@ permalink: /docs/understanding-and-applying-scrum
 
 Scrum Guide is a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value.
 {: .fs-6 .fw-300 }
+
+{: .no_toc }
+
+---
