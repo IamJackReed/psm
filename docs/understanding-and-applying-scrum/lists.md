@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lists
-parent: UI Components
+parent: Understanding and Applying Scrum
 nav_order: 5
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code
-parent: UI Components
+parent: Understanding and Applying Scrum
 has_children: true
 nav_order: 6
 ---
