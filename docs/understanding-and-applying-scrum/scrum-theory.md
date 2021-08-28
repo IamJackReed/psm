@@ -5,7 +5,7 @@ parent: Scrum Definition
 nav_order: 3
 ---
 
-# Buttons
+# Scrum Theory
 {: .no_toc }
 
 ## Table of contents
@@ -19,3 +19,12 @@ nav_order: 3
 ## Scrum Theory
 
 ### Links that look like buttons
+
+
+---
+
+## View Scrum Values Next
+
+
+
+[View Scrum Values]({{ site.baseurl }}{% link docs/scrum-values/utilities.md %}#scrum-values){: .btn .btn-outline }
