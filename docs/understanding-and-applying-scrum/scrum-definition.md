@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scrum Basics
+title: Scrum Definition
 parent: Understanding and Applying Scrum
 nav_order: 1
 ---
