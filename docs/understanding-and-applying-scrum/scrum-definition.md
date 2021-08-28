@@ -57,6 +57,6 @@ Scrum guide recommends **using all the Scrum components and rules (not just the 
 Scrum is:
 - **Not a process, technique, or definitive method**
 - **A framework** within which can employ various processes and techniques.
-- Employs an **iterative, incremental approach to optimise predictability and to **control risk.**
+- Employs an **iterative, incremental approach to optimise predictability and to control risk.**
 - lightweight.
 - Simple to understand.
