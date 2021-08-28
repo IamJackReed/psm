@@ -2,6 +2,7 @@
 layout: default
 title: Scrum Theory
 parent: Understanding and Applying Scrum
+nav_order: 4
 ---
 
 # Scrum Theory
