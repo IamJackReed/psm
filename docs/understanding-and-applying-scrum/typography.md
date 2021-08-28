@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Typography
-parent: UI Components
+title: Scrum Definition
+parent: Scrum Basics
 nav_order: 1
 ---
 
