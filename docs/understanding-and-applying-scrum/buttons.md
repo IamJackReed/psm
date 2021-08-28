@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Scrum Theory
+title: Buttons
 parent: Understanding and Applying Scrum
-nav_order: 3
+nav_order: 2
 ---
 
-# Scrum Theory
+# Buttons
 {: .no_toc }
 
 ## Table of contents
@@ -16,7 +16,7 @@ nav_order: 3
 
 ---
 
-## Scrum Theory
+## Basic button styles
 
 ### Links that look like buttons
 

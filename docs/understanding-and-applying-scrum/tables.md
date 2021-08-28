@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Tables
-parent: Understanding and Applying Scrum
-nav_order: 5
+parent: UI Components
+nav_order: 4
 ---
 
 # Tables
