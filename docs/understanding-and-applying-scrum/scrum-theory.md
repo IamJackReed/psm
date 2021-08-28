@@ -5,7 +5,7 @@ parent: Understanding and Applying Scrum
 nav_order: 3
 ---
 
-# Buttons
+# Scrum Theory
 {: .no_toc }
 
 ## Table of contents
