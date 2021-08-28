@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Buttons
-parent: Understanding and Applying Scrum
+parent: UI Components
 nav_order: 2
 ---
 
