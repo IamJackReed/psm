@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Understanding and Applying Scrum
-nav_order: 4
+nav_order: 2
 has_children: true
 permalink: docs/understanding-and-applying-scrum
 ---
