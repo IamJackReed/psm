@@ -79,22 +79,29 @@ Adaptation means that the Scrum Team, at frequent intervals, uses information ob
 ---
 The Scrum Framework provides a set of lightweight rules that help a Scrum Team to achieve a minimal level of empiricism, this can be accomplished by:
 
-- ✅  - Time-boxes that help a Scrum Team create empirical feedback loops.
-- ✅  - Producing a “Done” Increment at least once during a Sprint, a Scrum Team enables transparency that allows them to validate their assumptions about value.
+- ✅  Time-boxes that help a Scrum Team create empirical feedback loops.
+- ✅  Producing a “Done” Increment at least once during a Sprint, a Scrum Team enables transparency that allows them to validate their assumptions about value.
 
 To truly maximise the benefits of Scrum, Scrum Teams must increase the breadth (quantity) and depth (quality) of their empiricism. For example by:
 
-  ✅  - Increasing transparency into how they do their work, they are able to identify improvements in their processes, tools, and interactions.
-  ✅  - Increasing transparency into the value that customers realise from using the product, they gain deeper insights into how they can improve the product.
-  ✅  - Increasing their frequency of collaboration during the day, beyond just the Daily Scrum, they can identify and resolve issues sooner, thereby improving their flow of work.
-  ✅  - Collaborating with the Product Owner as the work is being done, they can increase the speed with which they are able to improve the product.
-
+-  ✅  Increasing transparency into how they do their work, they are able to identify improvements in their processes, tools, and interactions.
+-  ✅  Increasing transparency into the value that customers realise from using the product, they gain deeper insights into how they can improve the product.
+-  ✅  Increasing their frequency of collaboration during the day, beyond just the Daily Scrum, they can identify and resolve issues sooner, thereby improving their flow of work.
+-  ✅  Collaborating with the Product Owner as the work is being done, they can increase the speed with which they are able to improve the product.
 
 💡 Coaching
 {: .label }
->**Transparency** - there can be challenges with transparency, for example,
 
->▫️ Are the team comfortable working in an Agile way, breaking work down and delivering it in an incremental and iterative way?
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
+
+**Transparency** - there can be challenges with transparency, for example,
+
+▫️ Are the team comfortable working in an Agile way, breaking work down and delivering it in an incremental and iterative way?
 ▫️ Do the team regularly update the Product Backlog and Sprint Backlog?
 ▫️ Are they able to produce a done, useable, valuable increment every Sprint?
 ▫️ Do the team trust one another and are they working towards common goals?
