@@ -36,7 +36,7 @@ There is no such thing as a perfect plan when building a complex product. Detail
 - Culture to be fostered allowing people to feel they can talk openly without fear of blame.
 - One way to think about this is to adopt a mindset of  there is no good or bad news… there is just news.
 
-<img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-theory-64b9cb72.png" width="40%" height="40%">
+### 💊 Tough Pill to Sallow
 
 You won’t always be able to provoke the changes that need to be made. But you can always...
 
@@ -91,3 +91,5 @@ Is there an understanding that the plan for a Sprint isn’t set in stone and up
 - [ ] Are estimates treated as commitments?
 
 ---
+
+[See Scrum Values Next](https://iamjackreed.github.io/psm/docs/understanding-and-applying-scrum/scrum-values/){: .btn }
