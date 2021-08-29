@@ -33,6 +33,8 @@ Successful use of Scrum depends on people becoming more proficient in living fiv
 - **Respect**
 - **Courage**
 
+![](assets/scrum-values-412c2340.png)
+
 **Lack of trust impacts all of the above Values.**
 
 These values give direction to the Scrum Team with regard to their work, actions, and behaviour. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them.
@@ -40,6 +42,8 @@ These values give direction to the Scrum Team with regard to their work, actions
 ### Commitment
 
 <img src="/psm/docs/understanding-and-applying-scrum/assets/lists-fe394724.png" width="50%" height="50%">
+
+**People personally commit to achieving the goals of the Scrum Team.**
 
 Scrum values **give direction to the work done in Scrum**, along with the work ethics the Scrum Team should.
 
@@ -69,11 +73,21 @@ Scrum isn’t meant to be easy. It is designed to provoke change and change can 
 - Are they willing to try something else?
 - Are they willing to volunteer for tasks they don’t particularly enjoy or that aren’t in their core skillset if it’s in the best interests of the team?
 
-
 ### Focus
 
 <img src="/psm/docs/understanding-and-applying-scrum/assets/lists-942cc1c1.png" width="50%" height="50%">
 
-
+**Everyone focuses on the work of the Sprint and goals of the Scrum team.**
 
 Are the Scrum Team focussed on the Sprint Goal and able to stay focussed when distractions inevitably arise?
+
+### Courage
+
+**Scrum Team members have courage to do the right thing and work on tough problems.**
+
+### Respect
+
+**Scrum Team members respect each other to be capable, independent people.**
+
+### Openness
+**Scrum Team and its stakeholders agree to be open about the all the work and the challenges with performing the work.**
