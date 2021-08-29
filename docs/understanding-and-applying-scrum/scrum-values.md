@@ -42,28 +42,29 @@ Insights
 
 **Lack of trust impacts all of the above Values.**
 
-The Scrum framework can seem mechanical on its own. Many Scrum teams treat the roles, artifacts, and events as items to check off of a list during a Sprint, rather than as powerful tools for delivering products. This lack of life in the framework in and in response to the need for a supporting a culture that would enable Scrum to be successful was likely why, in 2017, the Scrum founders added the Scrum values to The Scrum Guide.
+The Scrum framework can seem mechanical on its own. Many Scrum teams treat the roles, artifacts, and events as items to check off of a list during a Sprint, rather than as powerful tools for delivering products. This lack of life in the framework and in response to the need for a supporting a culture that would enable Scrum to be successful was likely why, in **2017, the Scrum founders added the Scrum values to The Scrum Guide**.
 
-The Scrum Values describe five simple ideas that when practiced encourage an agile culture. The Scrum values describe behaviors that both Scrum Teams and the organisations they work within should exhibit.
+The Scrum Values describe five simple ideas that when practiced **encourage an agile culture**. The Scrum values describe behaviors that both Scrum Teams and the organisations they work within should exhibit.
 
-When talking about an agile mindset, that includes the Scrum
-values, the values and principles from the Manifesto for Agile Software Development, and Lean Principles.4 These values and principles guide the decisions that a Scrum Team makes, and they directly affect the effectiveness of that team in collaborating while using an empirical process to deliver valuable Product Increments.
+When talking about an agile mindset, that includes the **Scrum
+values**, the values and principles from the **Manifesto for Agile Software Development**, and **Lean Principles**. These values and principles guide the decisions that a Scrum Team makes, and they directly affect the effectiveness of that team in collaborating while using an empirical process to deliver valuable Product Increments.
 
 Software development is complex and so are people. When things are going well, the complexity seems manageable. But when stuff starts hitting the fan, bad things can and do happen. These difficult moments are why we need the Scrum values.
 
-Understanding the Scrum values can lead to better decisions, higher-quality work, and a truly collaborative environment.
+Understanding the Scrum values can lead to **better decisions**, **higher-quality work**, and a **truly collaborative environment**.
 
 These values are critical to understanding the "WHY" of Scrum. They act as guideposts when your team gets lost. More importantly, they drive the decisions that impact your daily work. Failing to understand them prevents your team from improving their ability to deliver value.
 
-The Scrum values can guide you through the many obstacles and difficult situations that inevitably arise during software development projects. Without these values, your practices become rote and collaboration feels forced and mechanical.
+The Scrum values can guide you through the many obstacles and difficult situations that inevitably arise during software development projects. Without these values, practices rote and collaboration feels forced and mechanical.
 
 ---
 
 ### 🤝 Commitment
 
-C### Scrum Guide
+### Scrum Guide
 Scrum Guide - 2020
 {: .label .label-green }
+
 - Successful use of Scrum depends on people becoming more proficient in living five values: Commitment, Focus, Openness, Respect, and Courage.- The Scrum Team commits to achieving its goals and to supporting each other.- Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint.
 - Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured.
 - [Artifact commitment:] For the Product Backlog it is the Product Goal.
@@ -102,14 +103,6 @@ Why is Commitment so vital:
 Commitment can transform a team. It’s a promise to yourself, your teammates, and your organisation to do the very best work you can. If everyone on your Scrum team is committed to delivering a done increment of valuable product each and every sprint, you can accomplish great things together.
 
 
-
-[There’s value in the Scrum Values](https://guntherverheyen.com/2013/05/03/theres-value-in-the-scrum-values/) - _Gunther Verheyen_
-
-
-
-
-
-[Maximize Scrum with the Scrum Values: Commitment (Part 4 of 5)](https://www.scrum.org/resources/blog/maximize-scrum-scrum-values-commitment-part-4-5) - _Stephanie Ockerman_
 
 ### 🎯 Focus
 
@@ -152,3 +145,11 @@ Commitment can transform a team. It’s a promise to yourself, your teammates, a
 
 **Focus** -
 - [ ] Are the Scrum Team focussed on the Sprint Goal and able to stay focussed when distractions inevitably arise?
+
+---
+
+Referrences for further reading:
+
+There’s value in the Scrum Values](https://guntherverheyen.com/2013/05/03/theres-value-in-the-scrum-values/) - _Gunther Verheyen_
+
+[Maximize Scrum with the Scrum Values: Commitment (Part 4 of 5)](https://www.scrum.org/resources/blog/maximize-scrum-scrum-values-commitment-part-4-5) - _Stephanie Ockerman_
