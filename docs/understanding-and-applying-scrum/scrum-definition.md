@@ -5,18 +5,7 @@ parent: Understanding and Applying Scrum
 nav_order: 3
 ---
 
-# Typography Utilities
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-## Scrum Definition
+# Scrum Definition
 
 The Scrum framework is **purposefully incomplete**, only defining the parts required to implement Scrum theory.
 
