@@ -39,6 +39,8 @@ Successful use of Scrum depends on people becoming more proficient in living fiv
 
 These values give direction to the Scrum Team with regard to their work, actions, and behaviour. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them.
 
+---
+
 ### 🤝 Commitment
 
 **People personally commit to achieving the goals of the Scrum Team.**
@@ -57,41 +59,40 @@ Scrum values **give direction to the work done in Scrum**, along with the work e
 - Commit to finish work, commit to inspect & adapt.
 - Commit to transparency.
 
-[☝️Coaching](){: .btn }
+---
 
-Scrum isn’t meant to be easy. It is designed to provoke change and change can push people outside their comfort zones. If you are starting with a new team observe whether they are living and breathing the Scrum Values. For example, when observing a Scrum Team in terms of commitment:
+### 🎯 Focus
+
+**Everyone focuses on the work of the Sprint and goals of the Scrum team.**
+
+---
+
+### 🦁 Courage
+
+**Scrum Team members have courage to do the right thing and work on tough problems.**
+
+---
+
+### ❤️ Respect
+
+**Scrum Team members respect each other to be capable, independent people.**
+
+---
+
+### 🚪 Openness
+
+**Scrum Team and its stakeholders agree to be open about the all the work and the challenges with performing the work.**
+
+---
+
+☝️Coaching
+{: .label .label-blue }
+**Commitment** - Scrum isn’t meant to be easy. It is designed to provoke change and change can push people outside their comfort zones. If you are starting with a new team observe whether they are living and breathing the Scrum Values. For example, when observing a Scrum Team in terms of commitment:
 
 - [ ] Are they committed to the team’s goals or their own personal goals?
 - [ ] Are they willing to collaborate and find solutions when things go wrong or do they throw their hands in the air and give up?
 - [ ] Are they willing to try something else?
 - [ ] Are they willing to volunteer for tasks they don’t particularly enjoy or that aren’t in their core skillset if it’s in the best interests of the team?
 
-### 🎯 Focus
-
-**Everyone focuses on the work of the Sprint and goals of the Scrum team.**
-
-☝️Coaching
-{: .label }
-
+**Focus** -
 - [ ] Are the Scrum Team focussed on the Sprint Goal and able to stay focussed when distractions inevitably arise?
-
-### 🦁 Courage
-
-**Scrum Team members have courage to do the right thing and work on tough problems.**
-
-☝️Coaching
-{: .label }
-
-### ❤️ Respect
-
-**Scrum Team members respect each other to be capable, independent people.**
-
-☝️Coaching
-{: .label }
-
-### 🚪 Openness
-
-**Scrum Team and its stakeholders agree to be open about the all the work and the challenges with performing the work.**
-
-☝️Coaching
-{: .label }

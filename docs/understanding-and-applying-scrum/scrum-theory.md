@@ -52,19 +52,6 @@ With Scrum, important decisions are based on the perceived state of its three fo
 
 Transparency enables inspection. Inspection without transparency is misleading and wasteful.
 
-☝️Coaching
-{: .label }
-There can be challenges with transparency, for example,
-
-- [ ] Are the team comfortable working in an Agile way, breaking work down and delivering it in an incremental and iterative way?
-- [ ] Do the team regularly update the Product Backlog and Sprint Backlog?
-- [ ] Are they able to produce a done, useable, valuable increment every Sprint?
-- [ ] Do the team trust one another and are they working towards common goals?
-- [ ] Is there a blame culture in the organisation?
-- [ ] Are the team trusted, empowered and allowed to (sometimes) fail?
-- [ ] Are the team nervous about speaking up in front of senior stakeholders?
-- [ ] Is there a fear of conflict?
-
 ---
 
 ### 🔍 Inspection
@@ -83,7 +70,18 @@ If any aspects of a process deviate outside acceptable limits or if the resultin
 
 ☝️Coaching
 {: .label }
-There can be challenges with inspection and adaptation, for example,
+**Transparency** - there can be challenges with transparency, for example,
+
+- [ ] Are the team comfortable working in an Agile way, breaking work down and delivering it in an incremental and iterative way?
+- [ ] Do the team regularly update the Product Backlog and Sprint Backlog?
+- [ ] Are they able to produce a done, useable, valuable increment every Sprint?
+- [ ] Do the team trust one another and are they working towards common goals?
+- [ ] Is there a blame culture in the organisation?
+- [ ] Are the team trusted, empowered and allowed to (sometimes) fail?
+- [ ] Are the team nervous about speaking up in front of senior stakeholders?
+- [ ] Is there a fear of conflict?
+
+**Inspection & Adaptation** - there can be challenges with inspection and adaptation, for example,
 Is there an understanding that the plan for a Sprint isn’t set in stone and updating timelines and scope for product delivery is not only normal but also desirable?
 
 - [ ] Does the organisation want to deliver on time and scope or do they want to create the best product they possibly can?
