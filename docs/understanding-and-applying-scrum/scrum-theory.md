@@ -43,8 +43,8 @@ You won’t always be able to provoke the changes that need to be made. But you 
 **Raise transparency and ensure that decision makers have the information they need to make any necessary changes.**
 
 ---
-<span style="font-size:10em;">💎</span>
-### Transparency
+### <span style="color: white;">Transparency</span>
+<img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-theory-9df09680.png" width="50%" height="50%">
 
 The emergent process and work must be visible to those performing the work as well as those receiving the work.
 
@@ -63,9 +63,11 @@ There can be challenges with transparency, for example,
 - Are the team nervous about speaking up in front of senior stakeholders?
 - Is there a fear of conflict?
 
-### Inspection & Adaptation
+---
 
-![](assets/scrum-theory-5f5afb91.png)
+### <span style="color: white;">Inspection & Adaptation</span>
+
+![](assets/scrum-theory-7a6a3b9f.png)
 
 The Scrum artifacts and the progress toward agreed goals must be inspected frequently and diligently to detect potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five events.
 
@@ -75,16 +77,18 @@ If any aspects of a process deviate outside acceptable limits or if the resultin
 
 **Adaptation becomes more difficult when the people involved are not empowered or self-managing**. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
 
-There can be challenges with inspection and adaptation, for example,
+Coaching
+{: .label .label-yellow }
 
+There can be challenges with inspection and adaptation, for example,
 Is there an understanding that the plan for a Sprint isn’t set in stone and updating timelines and scope for product delivery is not only normal but also desirable?
 
-- Does the organisation want to deliver on time and scope or do they want to create the best product they possibly can?
-- Are the team able to change their ways of working?
-- Are stakeholders actively involved and participating in Sprint Reviews?
-- Are the team creating their own estimates or are estimates imposed on them?
-- Are the team trusted to come up with their own solutions?
-- Once a plan has been made, is it difficult to change that plan?
-- Are estimates treated as commitments?
+- [ ] Does the organisation want to deliver on time and scope or do they want to create the best product they possibly can?
+- [ ] Are the team able to change their ways of working?
+- [ ] Are stakeholders actively involved and participating in Sprint Reviews?
+- [ ] Are the team creating their own estimates or are estimates imposed on them?
+- [ ] Are the team trusted to come up with their own solutions?
+- [ ] Once a plan has been made, is it difficult to change that plan?
+- [ ] Are estimates treated as commitments?
 
 ---
