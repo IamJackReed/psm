@@ -57,8 +57,7 @@ Scrum values **give direction to the work done in Scrum**, along with the work e
 - Commit to finish work, commit to inspect & adapt.
 - Commit to transparency.
 
-☝️Coaching
-{: .label }
+[☝️Coaching](){: .btn }
 
 Scrum isn’t meant to be easy. It is designed to provoke change and change can push people outside their comfort zones. If you are starting with a new team observe whether they are living and breathing the Scrum Values. For example, when observing a Scrum Team in terms of commitment:
 
