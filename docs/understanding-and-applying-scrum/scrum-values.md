@@ -40,6 +40,8 @@ Scrum Guide - 2020
 Insights
 {: .label .label-yellow }
 
+These values relate to the ethics of Scrum, thereby from a social point of view turning Scrum into a value system.
+
 **Lack of trust impacts all of the above Values.**
 
 The Scrum framework can seem mechanical on its own. Many Scrum teams treat the roles, artifacts, and events as items to check off of a list during a Sprint, rather than as powerful tools for delivering products. This lack of life in the framework and in response to the need for a supporting a culture that would enable Scrum to be successful was likely why, in **2017, the Scrum founders added the Scrum values to The Scrum Guide**.
@@ -85,24 +87,24 @@ Insights
 
 **Commitment** - is vital becuase it can transform a team. It’s a promise to yourself, your teammates, and your organisation to do the very best work you can. If everyone on your Scrum team is committed to delivering a done increment of valuable product each and every sprint, you can accomplish great things together.
 
-Commitment value for a Scrum team is NOT about treating estimates as as deadlines, rather:
+In a Scrum context the decisions we take, the steps we take, the way we play Scrum, the practices we add to Scrum, the activities we surround Scrum with should re-enforce these values, not diminish or undermine them:
 
-- Commitment to the team.
-- Commitment to quality.
-- Commitment to collaborate.
-- Commitment to learn. Commit to do the best we can, every day again.
-- Commitment to the Sprint Goal.
-- Commitment to be professional.
-- Commitment to self-organize.
-- Commitment to excellence.
-- Commitment to the agile principles. Commit to create working software.
-- Commitment to look for improvements.
-- Commitment to the Definition of Done.
-- Commitment to the Scrum framework.
-- Commitment to focus on Value.
-- Commitment to finish work.
-- Commitment to inspect & adapt. Commit to transparency.
-- Commitment to challenge the status-quo.
+- Commit to the team.
+- Commit to quality.
+- Commit to collaborate.
+- Commit to learn. Commit to do the best we can, every day again.
+- Commit to the Sprint Goal.
+- Commit to be professional.
+- Commit to self-organize.
+- Commit to excellence.
+- Commit to the agile principles. Commit to create working software.
+- Commit to look for improvements.
+- Commit to the Definition of Done.
+- Commit to the Scrum framework.
+- Commit to focus on Value.
+- Commit to finish work.
+- Commit to inspect & adapt. Commit to transparency.
+- Commit to challenge the status-quo.
 
 ---
 
