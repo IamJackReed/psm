@@ -67,11 +67,15 @@ There can be challenges with transparency, for example,
 
 ---
 
-### 🔍 Inspection & 🧰 Adaptation
+### 🔍 Inspection
 
 The Scrum artifacts and the progress toward agreed goals must be inspected frequently and diligently to detect potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five events.
 
 **Inspection enables adaptation**. Inspection without adaptation is considered pointless. Scrum events are designed to provoke change.
+
+---
+
+### 🧰 Adaptation
 
 If any aspects of a process deviate outside acceptable limits or if the resulting product is unacceptable, the process being applied or the materials being produced must be adjusted. The adjustment must be made as soon as possible to minimise further deviation.
 
