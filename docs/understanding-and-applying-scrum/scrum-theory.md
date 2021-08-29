@@ -38,9 +38,10 @@ There is no such thing as a perfect plan when building a complex product. Detail
 
 ![](assets/scrum-theory-64b9cb72.png)
 
-<p align="center">
-  <img width="75%" height="75%" src="/docs/understanding-and-applying-scrum/assets/scrum-theory-64b9cb72.png">
-</p>
+
+<img src="assets/scrum-theory-64b9cb72.png" width="25%" height="25%">
+
+
 
 You won’t always be able to provoke the changes that need to be made. But you can always...
 
