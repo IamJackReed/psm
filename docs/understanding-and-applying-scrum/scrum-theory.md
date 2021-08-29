@@ -82,8 +82,8 @@ If any aspects of a process deviate outside acceptable limits or if the resultin
 - [ ] Is there a fear of conflict?
 
 **Inspection & Adaptation** - there can be challenges with inspection and adaptation, for example,
-Is there an understanding that the plan for a Sprint isn’t set in stone and updating timelines and scope for product delivery is not only normal but also desirable?
 
+- [ ] Is there an understanding that the plan for a Sprint isn’t set in stone and updating timelines and scope for product delivery is not only normal but also desirable?
 - [ ] Does the organisation want to deliver on time and scope or do they want to create the best product they possibly can?
 - [ ] Are the team able to change their ways of working?
 - [ ] Are stakeholders actively involved and participating in Sprint Reviews?
