@@ -54,11 +54,11 @@ Scrum guide recommends **using all the Scrum components and rules (not just the 
 - **Example 2:** _Developers cannot choose to skip the Daily Scrum event because they are busy writing code or developing the Product._
 
 Scrum is:
-- **Not a process, technique, or definitive method**
-- **A framework** within which can employ various processes and techniques.
-- Employs an **iterative, incremental approach to optimise predictability and to control risk.**
-- lightweight.
-- Simple to understand.
+- **❌ Not a process, technique, or definitive method**
+- **✅ A framework** within which can employ various processes and techniques.
+- ✅ Employs an **iterative, incremental approach to optimise predictability and to control risk.**
+- ✅ Lightweight.
+- ✅ Simple to understand.
 
 ---
 
