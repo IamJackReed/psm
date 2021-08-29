@@ -54,7 +54,6 @@ Transparency enables inspection. Inspection without transparency is misleading a
 
 ☝️Coaching
 {: .label }
-<div style="background-color: #f0fffe ; padding: 10px; border: none;">
 There can be challenges with transparency, for example,
 
 - [ ] Are the team comfortable working in an Agile way, breaking work down and delivering it in an incremental and iterative way?
@@ -65,7 +64,6 @@ There can be challenges with transparency, for example,
 - [ ] Are the team trusted, empowered and allowed to (sometimes) fail?
 - [ ] Are the team nervous about speaking up in front of senior stakeholders?
 - [ ] Is there a fear of conflict?
-</div>
 
 ---
 
@@ -85,7 +83,6 @@ If any aspects of a process deviate outside acceptable limits or if the resultin
 
 ☝️Coaching
 {: .label }
-<div style="background-color: #f0fffe ; padding: 10px; border: none;">
 There can be challenges with inspection and adaptation, for example,
 Is there an understanding that the plan for a Sprint isn’t set in stone and updating timelines and scope for product delivery is not only normal but also desirable?
 
@@ -96,8 +93,6 @@ Is there an understanding that the plan for a Sprint isn’t set in stone and up
 - [ ] Are the team trusted to come up with their own solutions?
 - [ ] Once a plan has been made, is it difficult to change that plan?
 - [ ] Are estimates treated as commitments?
-</div>
-
 
 ---
 
