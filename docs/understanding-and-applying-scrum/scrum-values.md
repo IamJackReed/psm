@@ -33,7 +33,7 @@ Successful use of Scrum depends on people becoming more proficient in living fiv
 - **Respect**
 - **Courage**
 
-**Lack of trust impacts all of the above Values.**
+**☝️ Lack of trust impacts all of the above Values.**
 
 These values give direction to the Scrum Team with regard to their work, actions, and behaviour. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them.
 
@@ -83,7 +83,7 @@ Scrum values **give direction to the work done in Scrum**, along with the work e
 
 ---
 
-☝️Coaching
+💡 Coaching
 {: .label .label-blue }
 **Commitment** - Scrum isn’t meant to be easy. It is designed to provoke change and change can push people outside their comfort zones. If you are starting with a new team observe whether they are living and breathing the Scrum Values. For example, when observing a Scrum Team in terms of commitment:
 

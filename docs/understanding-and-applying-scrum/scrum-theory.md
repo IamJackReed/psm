@@ -40,7 +40,7 @@ There is no such thing as a perfect plan when building a complex product. Detail
 
 You won’t always be able to provoke the changes that need to be made. But you can always...
 
-**Raise transparency and ensure that decision makers have the information they need to make any necessary changes.**
+**☝️ Raise transparency and ensure that decision makers have the information they need to make any necessary changes.**
 
 ---
 
