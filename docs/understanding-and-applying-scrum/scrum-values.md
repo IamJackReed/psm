@@ -20,7 +20,8 @@ nav_order: 5
 
 <img src="/psm/docs/understanding-and-applying-scrum/assets/lists-63d25bd8.png">
 
-Scrum Values / Scrum Guide - 2020
+### Scrum Value - Scrum Guide
+Scrum Guide - 2020
 {: .label .label-green }
 
 - Successful use of Scrum depends on people becoming more proficient in living five values: Commitment, Focus, Openness, Respect, and Courage.
@@ -36,6 +37,18 @@ Scrum Values / Scrum Guide - 2020
 - These [Artifact] commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders.
 
 **Lack of trust impacts all of the above Values.**
+
+### Scrum Value - Insights
+Scrum Values - Insights
+{: .label .label-yellow }
+
+The Scrum framework can seem mechanical on its own. Many Scrum teams treat the roles, artifacts, and events as items to check off of a list during a Sprint, rather than as powerful tools for delivering products. This lack of life in the framework in and in response to the need for a supporting a culture that would enable Scrum to be successful was likely why, in 2017, the Scrum founders added the Scrum values to The Scrum Guide.
+
+The Scrum Values describe five simple ideas that when practiced encourage an agile culture. The Scrum values describe behaviors that both Scrum Teams and the organisations they work within should exhibit.
+
+When talking about an agile mindset, that includes the Scrum
+values, the values and principles from the Manifesto for Agile Software Development, and Lean Principles.4 These values and principles guide the decisions that a Scrum Team makes, and they directly affect the effectiveness of that team in collaborating while using an empirical process to deliver valuable Product Increments.
+
 
 ---
 
@@ -54,9 +67,12 @@ Commitment / Scrum Guide - 2020
 
 Commitment / Insights
 {: .label .label-yellow }
+
 **People personally commit to achieving the goals of the Scrum Team.**
 
-**Commitment:** The Scrum Team members should personally commit to achieving the Scrum Goals. Commitment is about **dedication and applies to the actions, the effort, not the final results.** The Scrum should commit to:
+- **Commitment** - means eople should commit to bringing their best efforts forward and helping each other succeed.
+
+**Commitment:** - means the Scrum Team members should personally commit to achieving the Scrum Goals. Commitment is about **dedication and applies to the actions, the effort, not the final results.** The Scrum should commit to:
 
 - Quality, commit to collaborate.
 - Learn, commit to do the best they can, every day.
@@ -124,17 +140,23 @@ And for sure, I prefer a development team that commits to all the above points, 
 
 **Everyone focuses on the work of the Sprint and goals of the Scrum team.**
 
+- **Focus** - means everyone should be focused on the sprint goal and the desired outcome of the sprint. The product owner must be focused on value, while the development team should focus on delivery and quality under the watchful eye of the Scrum master, who’s focused on the team’s use of Scrum and on removing any impediment that blocks them from delivering the increment.
+
 ---
 
 ### 🦁 Courage
 
 **Scrum Team members have courage to do the right thing and work on tough problems.**
 
+- **Courage** - means the Scrum team should have the courage needed to work transparently, to do the right thing—even when it’s painful—and to tackle difficult challenges.
+
 ---
 
 ### ❤️ Respect
 
 **Scrum Team members respect each other to be capable, independent people.**
+
+- **Respect** - means the Scrum team members need to show respect for one another and for everyone outside the team, seeing them as capable, intelligent, and creative problem solvers who are each doing the best work they can.
 
 ---
 
