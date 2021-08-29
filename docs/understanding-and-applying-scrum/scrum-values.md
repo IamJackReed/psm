@@ -23,13 +23,6 @@ nav_order: 5
 Scrum Values / Scrum Guide - 2020
 {: .label .label-green }
 
-Successful use of Scrum depends on people becoming more proficient in living five values:
-- **Commitment**
-- **Focus**
-- **Openness**
-- **Respect**
-- **Courage**
-
 - Successful use of Scrum depends on people becoming more proficient in living five values: Commitment, Focus, Openness, Respect, and Courage.
 - The Scrum Team commits to achieving its goals and to supporting each other.
 - Their primary focus is on the work of the Sprint to make the best possible progress toward these goals.
