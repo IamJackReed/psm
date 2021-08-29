@@ -20,11 +20,8 @@ nav_order: 5
 
 <img src="/psm/docs/understanding-and-applying-scrum/assets/lists-63d25bd8.png">
 
-The Scrum Team commits to achieving its goals and to supporting each other. Their primary focus is on the work of the Sprint to make the best possible progress toward these goals. The Scrum Team and its stakeholders are open about the work and the challenges.
-
-Scrum Team members respect each other to be capable, independent people, and are respected as such by the people with whom they work. The Scrum Team members have the courage to do the right thing, to work on tough problems.
-
-These values give direction to the Scrum Team with regard to their work, actions, and behaviour. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them. The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts. When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
+Scrum Values / Scrum Guide - 2020
+{: .label .label-green }
 
 Successful use of Scrum depends on people becoming more proficient in living five values:
 - **Commitment**
@@ -33,7 +30,17 @@ Successful use of Scrum depends on people becoming more proficient in living fiv
 - **Respect**
 - **Courage**
 
-These values give direction to the Scrum Team with regard to their work, actions, and behaviour. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them.
+- Successful use of Scrum depends on people becoming more proficient in living five values: Commitment, Focus, Openness, Respect, and Courage.
+- The Scrum Team commits to achieving its goals and to supporting each other.
+- Their primary focus is on the work of the Sprint to make the best possible progress toward these goals.
+- The Scrum Team and its stakeholders are open about the work and the challenges.
+- Scrum Team members respect each other to be capable, independent people, and are respected as such by the people with whom they work.
+- The Scrum Team members have the courage to do the right thing, to work on tough problems.
+- These values give direction to the Scrum Team with regard to their work, actions, and behavior.
+- The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them.
+- The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts.
+- When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
+- These [Artifact] commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders.
 
 **Lack of trust impacts all of the above Values.**
 
@@ -41,9 +48,20 @@ These values give direction to the Scrum Team with regard to their work, actions
 
 ### 🤝 Commitment
 
-**People personally commit to achieving the goals of the Scrum Team.**
+Commitment / Scrum Guide - 2020
+{: .label .label-green }
 
-Scrum values **give direction to the work done in Scrum**, along with the work ethics the Scrum Team should.
+- The Scrum Team commits to achieving its goals and to supporting each other.
+- Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint.
+- Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured.
+- [Artifact commitment:] For the Product Backlog it is the Product Goal.
+- [Artifact commitment:] For the Sprint Backlog it is the Sprint Goal.
+- [Artifact commitment:] For the Increment it is the Definition of Done.
+- Although the Sprint Goal is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it.
+
+Commitment / Insights
+{: .label .label-yellow }
+**People personally commit to achieving the goals of the Scrum Team.**
 
 **Commitment:** The Scrum Team members should personally commit to achieving the Scrum Goals. Commitment is about **dedication and applies to the actions, the effort, not the final results.** The Scrum should commit to:
 
@@ -63,7 +81,10 @@ Scrum values **give direction to the work done in Scrum**, along with the work e
 - Focus on continuous improvement, technical excellence.
 - Truly collaborate with all the business people involved.
 
+Successful use of Scrum depends on people becoming more proficient in living five values: Commitment, Focus, Openness, Respect, and Courage.
+
 #### The Misuse of Commitment
+
 > Commitment might be the most abused term in Scrum. It's related to the famous saying "we ask them for estimates and then treat them as deadlines". In organisations starting with Scrum, some old school (project) managers fear the seeming lack of grip that comes along with it. But luckily the Scrum Guide offered them 'commitment'. Development teams should commit themselves upfront to sprint results. No matter how complex (and by this unpredictable) the software, a hard commitment by the development team is a precondition. Should any unforeseen problems arise, then that's the problem of the development team, they gave their commitment, so they should fix it, just order some pizza and carry on!
 >
 >To me, commitment in this context smells. Therefore I prefer using the term 'forecast'. When planning a sprint, the team gives a forecast of the amount of functionality they think they can deliver, given the available knowledge. But taking into account the complexity of software development, giving 100% guarantees and impossible and meaningless. I rather trust teams they will do everything that's possible to deliver a valuable, high-quality product.
@@ -73,6 +94,7 @@ Scrum values **give direction to the work done in Scrum**, along with the work e
 [Commitment versus Forecast](https://www.scrum.org/resources/blog/commitment-versus-forecast) - _Barry Overeem_
 
 #### What Commitment is About?
+
 >The discussion I've had basically boils down to: if I can't ask a commitment of the development team, how will I know they will actually deliver the discussed scope of the sprint? The short answer is: you don't. People can get ill, new insights on a technical approach might occur or some upfront dependencies turn out to be real impediments.
 >
 >The misunderstanding is the perception that by changing commitment in the forecast, the development team doesn't have to commit to anything anymore. But the only thing that changed is the development team now gives a forecast of the specific product backlog items they think can be completed in a sprint, this instead of giving a commitment to the exact scope.
@@ -91,6 +113,7 @@ And for sure, I prefer a development team that commits to all the above points, 
 [Commitment versus Forecast](https://www.scrum.org/resources/blog/commitment-versus-forecast) - _Barry Overeem_
 
 #### Commitment facilitates empiricism and collaborative teamwork.
+
 > When we **commit to the success of the team**, not just caring about our individual achievements, that creates an environment of trust, productive problem solving, and high team standards.
 >  
 > When we **commit to doing Scrum fully**, not just picking and choosing the easy parts, we can fully experience the benefits of transparency, inspection, and adaptation.
