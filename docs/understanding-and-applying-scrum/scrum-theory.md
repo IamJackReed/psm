@@ -44,8 +44,7 @@ You won’t always be able to provoke the changes that need to be made. But you 
 
 ---
 
-### Transparency
-<img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-theory-9df09680.png" width="30%" height="30%">
+### 💎 Transparency
 
 The emergent process and work must be visible to those performing the work as well as those receiving the work.
 
@@ -53,7 +52,7 @@ With Scrum, important decisions are based on the perceived state of its three fo
 
 Transparency enables inspection. Inspection without transparency is misleading and wasteful.
 
-Coaching
+☝️Coaching
 {: .label .label-yellow }
 There can be challenges with transparency, for example,
 
@@ -68,8 +67,7 @@ There can be challenges with transparency, for example,
 
 ---
 
-### Inspection & Adaptation
-<img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-theory-7a6a3b9f.png" width="65%" height="65%">
+### 🔍 Inspection & 🧰 Adaptation
 
 The Scrum artifacts and the progress toward agreed goals must be inspected frequently and diligently to detect potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five events.
 
@@ -79,7 +77,7 @@ If any aspects of a process deviate outside acceptable limits or if the resultin
 
 **Adaptation becomes more difficult when the people involved are not empowered or self-managing**. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
 
-Coaching
+☝️Coaching
 {: .label .label-yellow }
 There can be challenges with inspection and adaptation, for example,
 Is there an understanding that the plan for a Sprint isn’t set in stone and updating timelines and scope for product delivery is not only normal but also desirable?
