@@ -44,7 +44,7 @@ You won’t always be able to provoke the changes that need to be made. But you 
 
 ### Transparency
 
-<img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-theory-255b0121.png" width="50%" height="50%">
+<img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-theory-3406c327.png" width="50%" height="50%">
 
 The emergent process and work must be visible to those performing the work as well as those receiving the work.
 
@@ -65,7 +65,7 @@ There can be challenges with transparency, for example,
 
 ### Inspection & Adaptation
 
-![](assets/scrum-theory-e9d8570a.png)
+![](assets/scrum-theory-5f5afb91.png)
 
 The Scrum artifacts and the progress toward agreed goals must be inspected frequently and diligently to detect potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five events.
 

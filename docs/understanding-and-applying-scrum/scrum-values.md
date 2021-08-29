@@ -41,7 +41,7 @@ These values give direction to the Scrum Team with regard to their work, actions
 
 ### Commitment
 
-<img src="/psm/docs/understanding-and-applying-scrum/assets/lists-fe394724.png" width="50%" height="50%">
+<img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-values-a398a5c3.png" width="50%" height="50%">
 
 **People personally commit to achieving the goals of the Scrum Team.**
 
@@ -71,9 +71,12 @@ Scrum isn’t meant to be easy. It is designed to provoke change and change can 
 
 ### Focus
 
-<img src="/psm/docs/understanding-and-applying-scrum/assets/lists-942cc1c1.png" width="50%" height="50%">
+<img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-values-99f9fb03.png" width="50%" height="50%">
 
 **Everyone focuses on the work of the Sprint and goals of the Scrum team.**
+
+Coaching
+{: .label .label-yellow }
 
 Are the Scrum Team focussed on the Sprint Goal and able to stay focussed when distractions inevitably arise?
 
