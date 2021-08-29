@@ -36,7 +36,7 @@ There is no such thing as a perfect plan when building a complex product. Detail
 - Culture to be fostered allowing people to feel they can talk openly without fear of blame.
 - One way to think about this is to adopt a mindset of  there is no good or bad news… there is just news.
 
-<img src="assets/scrum-theory-64b9cb72.png" alt="drawing" align="centre" width="50%"/>
+![](assets/scrum-theory-64b9cb72.png)
 
 You won’t always be able to provoke the changes that need to be made. But you can always...
 
@@ -44,7 +44,7 @@ You won’t always be able to provoke the changes that need to be made. But you 
 
 ### Transparency
 
-<img src="assets/scrum-theory-c1c6d372.png" alt="drawing" align="centre" width="50%"/>
+![](assets/scrum-theory-c1c6d372.png)
 
 There can be challenges with transparency, for example,
 
@@ -57,9 +57,27 @@ There can be challenges with transparency, for example,
 - Are the team nervous about speaking up in front of senior stakeholders?
 - Is there a fear of conflict?
 
+### Inspection & Adaptation
+
+![](assets/scrum-theory-e9d8570a.png)
+
+There can be challenges with inspection and adaptation, for example,
+
+Is there an understanding that the plan for a Sprint isn’t set in stone and updating timelines and scope for product delivery is not only normal but also desirable?
+
+- Does the organisation want to deliver on time and scope or do they want to create the best product they possibly can?
+- Are the team able to change their ways of working?
+- Are stakeholders actively involved and participating in Sprint Reviews?
+- Are the team creating their own estimates or are estimates imposed on them?
+- Are the team trusted to come up with their own solutions?
+- Once a plan has been made, is it difficult to change that plan?
+- Are estimates treated as commitments?
 
 
 
+<p align="center">
+  <img width="100%" height="100%" src="assets/scrum-theory-e9d8570a.png">
+</p>
 
 
 | Modifier  | Screen size                          |
