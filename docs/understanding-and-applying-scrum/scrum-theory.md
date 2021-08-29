@@ -44,7 +44,7 @@ You won’t always be able to provoke the changes that need to be made. But you 
 
 ### Transparency
 
-![](assets/scrum-theory-c1c6d372.png)
+<img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-theory-255b0121.png" width="50%" height="50%">
 
 There can be challenges with transparency, for example,
 
