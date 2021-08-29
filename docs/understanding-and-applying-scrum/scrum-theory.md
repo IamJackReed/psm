@@ -36,7 +36,7 @@ There is no such thing as a perfect plan when building a complex product. Detail
 - Culture to be fostered allowing people to feel they can talk openly without fear of blame.
 - One way to think about this is to adopt a mindset of  there is no good or bad news… there is just news.
 
-<img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-theory-64b9cb72.png" width="50%" height="50%">
+<img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-theory-64b9cb72.png" width="40%" height="40%">
 
 You won’t always be able to provoke the changes that need to be made. But you can always...
 
@@ -45,7 +45,7 @@ You won’t always be able to provoke the changes that need to be made. But you 
 ---
 
 ### Transparency
-<img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-theory-9df09680.png" width="50%" height="50%">
+<img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-theory-9df09680.png" width="30%" height="30%">
 
 The emergent process and work must be visible to those performing the work as well as those receiving the work.
 
@@ -69,7 +69,7 @@ There can be challenges with transparency, for example,
 ---
 
 ### Inspection & Adaptation
-<img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-theory-7a6a3b9f.png" width="50%" height="50%">
+<img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-theory-7a6a3b9f.png" width="65%" height="65%">
 
 The Scrum artifacts and the progress toward agreed goals must be inspected frequently and diligently to detect potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five events.
 
