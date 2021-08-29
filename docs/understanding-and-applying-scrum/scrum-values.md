@@ -37,7 +37,7 @@ Scrum Guide - 2020
 - When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
 - These [Artifact] commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders.
 
-### Insights
+#### Insights
 
 Insights
 {: .label .label-yellow }
@@ -77,7 +77,7 @@ Scrum Guide - 2020
 - [Artifact commitment:] For the Increment it is the Definition of Done.
 - Although the Sprint Goal is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it.
 
-### Insights
+#### Insights
 
 Insights
 {: .label .label-yellow }
@@ -127,6 +127,8 @@ Scrum Guide - 2020
 - Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured.
 - Their primary focus is on the work of the Sprint to make the best possible progress toward these goals.
 - The Scrum Master serves the Scrum Team in several ways, including helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done.
+
+#### Insights
 
 Insights
 {: .label .label-yellow }
