@@ -63,7 +63,7 @@ The Scrum values can guide you through the many obstacles and difficult situatio
 
 ---
 
-### 🤝 Commitment
+## 🤝 Commitment
 
 ### Scrum Guide
 Scrum Guide - 2020
@@ -111,7 +111,7 @@ In a Scrum context the decisions we take, the steps we take, the way we play Scr
 
 ---
 
-### 🎯 Focus
+## 🎯 Focus
 
 ### Scrum Guide
 Scrum Guide - 2020
@@ -139,7 +139,7 @@ Insights
 
 ---
 
-### 🦁 Courage
+## 🦁 Courage
 
 **Scrum Team members have courage to do the right thing and work on tough problems.**
 
@@ -147,7 +147,7 @@ Insights
 
 ---
 
-### ❤️ Respect
+## ❤️ Respect
 
 **Scrum Team members respect each other to be capable, independent people.**
 
@@ -155,7 +155,7 @@ Insights
 
 ---
 
-### 🚪 Openness
+## 🚪 Openness
 
 **Scrum Team and its stakeholders agree to be open about the all the work and the challenges with performing the work.**
 
