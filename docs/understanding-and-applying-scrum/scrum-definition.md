@@ -48,17 +48,17 @@ Scrum is built upon by the collective intelligence of the people using it. Rathe
 
 Various processes, techniques and methods can be employed within the framework.
 
-Scrum guide recommends **using all the Scrum components and rules (not just the ones which suit). While implementing only parts of Scrum is possible, the result is not Scrum.
+Scrum guide recommends using all the Scrum components and rules (not just the ones which suit). While implementing only parts of Scrum is possible, the result is not Scrum.
 
-- **Example 1:** _Scrum Team cannot decide that the Sprint Retrospective isn't needed._
-- **Example 2:** _Developers cannot choose to skip the Daily Scrum event because they are busy writing code or developing the Product._
+- **Example 1** - _Scrum Team cannot decide that the Sprint Retrospective isn't needed._
+- **Example 2** - _Developers cannot choose to skip the Daily Scrum event because they are busy writing code or developing the Product._
 
 Scrum is:
-- **❌  Not a process, technique, or definitive method**
-- **✅  A framework** within which can employ various processes and techniques.
-- ✅  Employs an **iterative, incremental approach to optimise predictability and to control risk.**
-- ✅  Lightweight.
-- ✅  Simple to understand.
+- ❌ - **Not a process, technique, or definitive method**
+- ✅  - **A framework** within which can employ various processes and techniques.
+- ✅  - Employs an **iterative, incremental approach to optimise predictability and to control risk.**
+- ✅  - Lightweight.
+- ✅  - Simple to understand.
 
 ---
 
