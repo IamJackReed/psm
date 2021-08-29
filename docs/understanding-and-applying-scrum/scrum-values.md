@@ -79,7 +79,7 @@ Insights
 
 **People personally commit to achieving the goals of the Scrum Team.**
 
-- **Commitment** - means the Scrum Team members should commit to bringing their best efforts forward and helping each other succeed.
+**Commitment** - means the Scrum Team members should commit to bringing their best efforts forward and helping each other succeed.
 
 **Commitment:** - means the Scrum Team members should personally commit to achieving the Scrum Goals. Commitment is about **dedication and applies to the actions, the effort, not the final results.** Commitment for a Scrum team means:
 
