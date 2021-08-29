@@ -96,4 +96,4 @@ Is there an understanding that the plan for a Sprint isn’t set in stone and up
 
 ---
 
-[Scrum Values](https://iamjackreed.github.io/psm/docs/understanding-and-applying-scrum/scrum-values/){: .btn-blue}
+[Scrum Values](https://iamjackreed.github.io/psm/docs/understanding-and-applying-scrum/scrum-values/){: .btn .btn-blue }
