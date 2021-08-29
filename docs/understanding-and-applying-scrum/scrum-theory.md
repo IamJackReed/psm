@@ -43,7 +43,7 @@ You won’t always be able to provoke the changes that need to be made. But you 
 **Raise transparency and ensure that decision makers have the information they need to make any necessary changes.**
 
 ---
-<p style="font-size:100px">💎</p>
+<span style="font-size:10em;">💎</span>
 ### Transparency
 
 The emergent process and work must be visible to those performing the work as well as those receiving the work.
