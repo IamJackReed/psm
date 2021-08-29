@@ -4,10 +4,47 @@ title: Scrum Theory
 parent: Understanding and Applying Scrum
 nav_order: 4
 ---
-
 # Scrum Theory
+{: .no_toc }
 
-Just the Docs spacing works in conjunction with a variety of modifiers that allow you to target specific screen sizes responsively. Use these in conjunction with spacing and display prefix and suffix classes.
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+## Scrum Theory
+
+Scrum is founded on **empiricism** and **lean thinking**.
+
+- **Empiricism**: asserts that knowledge comes from experience and making decisions based on what is observed.
+- **Lean thinking**: Reduces waste and focuses on the essentials.
+
+Scrum employs an iterative, incremental approach to optimise predictability and to control risk. Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed.
+
+Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint. These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation.
+
+### Large image
+
+![](https://guides.github.com/activities/hello-world/branching.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**
 
 | Modifier  | Screen size                          |
 |:----------|:-------------------------------------|
