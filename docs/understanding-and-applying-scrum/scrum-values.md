@@ -54,85 +54,47 @@ values, the values and principles from the Manifesto for Agile Software Developm
 
 ### 🤝 Commitment
 
-Commitment / Scrum Guide - 2020
+C### Scrum Guide
+Scrum Guide - 2020
 {: .label .label-green }
-
-- The Scrum Team commits to achieving its goals and to supporting each other.
-- Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint.
+- Successful use of Scrum depends on people becoming more proficient in living five values: Commitment, Focus, Openness, Respect, and Courage.- The Scrum Team commits to achieving its goals and to supporting each other.- Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint.
 - Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured.
 - [Artifact commitment:] For the Product Backlog it is the Product Goal.
 - [Artifact commitment:] For the Sprint Backlog it is the Sprint Goal.
 - [Artifact commitment:] For the Increment it is the Definition of Done.
 - Although the Sprint Goal is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it.
 
-Commitment / Insights
+### Insights
+Insights
 {: .label .label-yellow }
 
 **People personally commit to achieving the goals of the Scrum Team.**
 
-- **Commitment** - means eople should commit to bringing their best efforts forward and helping each other succeed.
+- **Commitment** - means the Scrum Team members should commit to bringing their best efforts forward and helping each other succeed.
 
-**Commitment:** - means the Scrum Team members should personally commit to achieving the Scrum Goals. Commitment is about **dedication and applies to the actions, the effort, not the final results.** The Scrum should commit to:
+**Commitment:** - means the Scrum Team members should personally commit to achieving the Scrum Goals. Commitment is about **dedication and applies to the actions, the effort, not the final results.** Commitment for a Scrum team means:
 
-- Quality, commit to collaborate.
-- Learn, commit to do the best they can, every day.
-- Being professional.
-- Self-manage, commit to excellence.
-- Agile principles, commit to create working software.
-- Look for improvements, commit to the Definition of Done.
-- Scrum framework, commit to focus on value.
-- Finish work, commit to inspecting & adapting.
-- Maintain transparency.
-- Delivering high-quality products.
-- Meeting the Sprint Goal (instead of the exact amount of product backlog items.
-- Delivering working, usable software that meets the expectations of the customers and users.
-- Working only on the product backlog items with the highest value.
-- Focus on continuous improvement, technical excellence.
-- Truly collaborate with all the business people involved.
+- Commit to the team.
+- Commit to quality.
+- Commit to collaborate.
+- Commit to learn. Commit to do the best we can, every day again.
+- Commit to the Sprint Goal.
+- Commit to be professional.
+- Commit to self-organize.
+- Commit to excellence.
+- Commit to the agile principles. Commit to create working software.
+- Commit to look for improvements.
+- Commit to the Definition of Done.
+- Commit to the Scrum framework.
+- Commit to focus on Value.
+- ommit to finish work.
+- Commit to inspect & adapt. Commit to transparency.
+- Commit to challenge the status-quo.
 
-Successful use of Scrum depends on people becoming more proficient in living five values: Commitment, Focus, Openness, Respect, and Courage.
+[There’s value in the Scrum Values](https://guntherverheyen.com/2013/05/03/theres-value-in-the-scrum-values/) - _Gunther Verheyen_
 
-#### The Misuse of Commitment
 
-> Commitment might be the most abused term in Scrum. It's related to the famous saying "we ask them for estimates and then treat them as deadlines". In organisations starting with Scrum, some old school (project) managers fear the seeming lack of grip that comes along with it. But luckily the Scrum Guide offered them 'commitment'. Development teams should commit themselves upfront to sprint results. No matter how complex (and by this unpredictable) the software, a hard commitment by the development team is a precondition. Should any unforeseen problems arise, then that's the problem of the development team, they gave their commitment, so they should fix it, just order some pizza and carry on!
->
->To me, commitment in this context smells. Therefore I prefer using the term 'forecast'. When planning a sprint, the team gives a forecast of the amount of functionality they think they can deliver, given the available knowledge. But taking into account the complexity of software development, giving 100% guarantees and impossible and meaningless. I rather trust teams they will do everything that's possible to deliver a valuable, high-quality product.
->
->Fortunately, in the latest Scrum Guide commitment was actually replaced by forecast. I can only warmly welcome this.
 
-[Commitment versus Forecast](https://www.scrum.org/resources/blog/commitment-versus-forecast) - _Barry Overeem_
-
-#### What Commitment is About?
-
->The discussion I've had basically boils down to: if I can't ask a commitment of the development team, how will I know they will actually deliver the discussed scope of the sprint? The short answer is: you don't. People can get ill, new insights on a technical approach might occur or some upfront dependencies turn out to be real impediments.
->
->The misunderstanding is the perception that by changing commitment in the forecast, the development team doesn't have to commit to anything anymore. But the only thing that changed is the development team now gives a forecast of the specific product backlog items they think can be completed in a sprint, this instead of giving a commitment to the exact scope.
->
->However, the development team still does commit to:
->
->Delivering high-quality products. The team commits to doing their best to achieve the goal while maintaining high quality.
-Meeting the sprint goal (instead of the exact amount of product backlog items)
-Delivering working, usable software that meets the expectations of the customers and users
-Working only on the product backlog items with the highest value
-Focus on continuous improvement, technical excellence
-Truly collaborate with all the business people involved
-And for sure, I prefer a development team that commits to all the above points, then a team that drops quality and takes some ugly shortcuts only to "satisfy" the stakeholders with a "done" sprint. When this is a reality, you've got a lot of smells in place that need attention
->
-
-[Commitment versus Forecast](https://www.scrum.org/resources/blog/commitment-versus-forecast) - _Barry Overeem_
-
-#### Commitment facilitates empiricism and collaborative teamwork.
-
-> When we **commit to the success of the team**, not just caring about our individual achievements, that creates an environment of trust, productive problem solving, and high team standards.
->  
-> When we **commit to doing Scrum fully**, not just picking and choosing the easy parts, we can fully experience the benefits of transparency, inspection, and adaptation.
->  
-> Committing to continuous improvement makes it **easier to change direction** based on new information or empirical data.
->  
-> **Commitment is about dedication to doing our best**.  We cannot predict or control all of the complexities in product development, but we can commit to taking action and adjusting our behaviours based on feedback and new learnings.
->  
-> When we **commit to delivering value**, we feel a greater sense of shared purpose that drives our motivation to collaborate.
->
 
 [Maximize Scrum with the Scrum Values: Commitment (Part 4 of 5)](https://www.scrum.org/resources/blog/maximize-scrum-scrum-values-commitment-part-4-5) - _Stephanie Ockerman_
 
