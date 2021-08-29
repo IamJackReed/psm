@@ -62,16 +62,12 @@ Scrum values **give direction to the work done in Scrum**, along with the work e
 Coaching
 {: .label .label-yellow }
 
-- [ ] hello, this is a todo item
-- [ ] hello, this is another todo item
-- [x] goodbye, this item is done
-
 Scrum isn’t meant to be easy. It is designed to provoke change and change can push people outside their comfort zones. If you are starting with a new team observe whether they are living and breathing the Scrum Values. For example, when observing a Scrum Team in terms of commitment:
 
-- Are they committed to the team’s goals or their own personal goals?
-- Are they willing to collaborate and find solutions when things go wrong or do they throw their hands in the air and give up?
-- Are they willing to try something else?
-- Are they willing to volunteer for tasks they don’t particularly enjoy or that aren’t in their core skillset if it’s in the best interests of the team?
+- [ ] Are they committed to the team’s goals or their own personal goals?
+- [ ] Are they willing to collaborate and find solutions when things go wrong or do they throw their hands in the air and give up?
+- [ ] Are they willing to try something else?
+- [ ] Are they willing to volunteer for tasks they don’t particularly enjoy or that aren’t in their core skillset if it’s in the best interests of the team?
 
 ### Focus
 
