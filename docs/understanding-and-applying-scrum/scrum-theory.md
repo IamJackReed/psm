@@ -36,6 +36,8 @@ There is no such thing as a perfect plan when building a complex product. Detail
 - Culture to be fostered allowing people to feel they can talk openly without fear of blame.
 - One way to think about this is to adopt a mindset of  there is no good or bad news… there is just news.
 
+Empiricism Is at the Heart of Scrum - Scrum is designed to enable empiricism. Embracing empiricism improves transparency, inspection, and adaptation. Understanding these three pillars of any empirical process is essential for a Scrum Team to improve its ability to deliver valuable Product Increments.
+
 ### 💊 Tough Pill to Sallow
 
 You won’t always be able to provoke the changes that need to be made. But you can always...
@@ -52,6 +54,8 @@ With Scrum, important decisions are based on the perceived state of its three fo
 
 Transparency enables inspection. Inspection without transparency is misleading and wasteful.
 
+Transparency means that the Scrum Team has a full understanding of what’s going on; all aspects of the process that affect outcomes are visible to them. Transparency helps them understand which features and functions are planned for the product, how the Scrum Team is progressing toward its goals, and what value customers receive when they use the product.
+
 ---
 
 ### 🔍 Inspection
@@ -59,6 +63,8 @@ Transparency enables inspection. Inspection without transparency is misleading a
 The Scrum artifacts and the progress toward agreed goals must be inspected frequently and diligently to detect potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five events.
 
 **Inspection enables adaptation**. Inspection without adaptation is considered pointless. Scrum events are designed to provoke change.
+
+Inspection means that the Scrum Team is able, at frequent intervals, to observe results and learn from new information. Team members actively seek information about both achievements and shortfalls from desired outcomes and goals.
 
 ---
 
@@ -68,18 +74,34 @@ If any aspects of a process deviate outside acceptable limits or if the resultin
 
 **Adaptation becomes more difficult when the people involved are not empowered or self-managing**. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
 
+Adaptation means that the Scrum Team, at frequent intervals, uses information obtained from inspection to change its strategy, plans, techniques, and behaviours to realign them with the desired outcomes and goals.
+
+---
+The Scrum Framework provides a set of lightweight rules that help a Scrum Team to achieve a minimal level of empiricism, this can be accomplished by:
+
+- ✅  - Time-boxes that help a Scrum Team create empirical feedback loops.
+- ✅  - Producing a “Done” Increment at least once during a Sprint, a Scrum Team enables transparency that allows them to validate their assumptions about value.
+
+To truly maximise the benefits of Scrum, Scrum Teams must increase the breadth (quantity) and depth (quality) of their empiricism. For example by:
+
+  ✅  - Increasing transparency into how they do their work, they are able to identify improvements in their processes, tools, and interactions.
+  ✅  - Increasing transparency into the value that customers realise from using the product, they gain deeper insights into how they can improve the product.
+  ✅  - Increasing their frequency of collaboration during the day, beyond just the Daily Scrum, they can identify and resolve issues sooner, thereby improving their flow of work.
+  ✅  - Collaborating with the Product Owner as the work is being done, they can increase the speed with which they are able to improve the product.
+
+
 💡 Coaching
 {: .label }
-**Transparency** - there can be challenges with transparency, for example,
+>**Transparency** - there can be challenges with transparency, for example,
 
-- [ ] Are the team comfortable working in an Agile way, breaking work down and delivering it in an incremental and iterative way?
-- [ ] Do the team regularly update the Product Backlog and Sprint Backlog?
-- [ ] Are they able to produce a done, useable, valuable increment every Sprint?
-- [ ] Do the team trust one another and are they working towards common goals?
-- [ ] Is there a blame culture in the organisation?
-- [ ] Are the team trusted, empowered and allowed to (sometimes) fail?
-- [ ] Are the team nervous about speaking up in front of senior stakeholders?
-- [ ] Is there a fear of conflict?
+>▫️ Are the team comfortable working in an Agile way, breaking work down and delivering it in an incremental and iterative way?
+▫️ Do the team regularly update the Product Backlog and Sprint Backlog?
+▫️ Are they able to produce a done, useable, valuable increment every Sprint?
+▫️ Do the team trust one another and are they working towards common goals?
+▫️ Is there a blame culture in the organisation?
+▫️ Are the team trusted, empowered and allowed to (sometimes) fail?
+▫️ Are the team nervous about speaking up in front of senior stakeholders?
+▫️ Is there a fear of conflict?
 
 **Inspection & Adaptation** - there can be challenges with inspection and adaptation, for example,
 
