@@ -81,29 +81,30 @@ Insights
 
 **Commitment** - means the Scrum Team members should commit to bringing their best efforts forward and helping each other succeed.
 
-**Commitment:** - means the Scrum Team members should personally commit to achieving the Scrum Goals. Commitment is about **dedication and applies to the actions, the effort, not the final results.** Commitment for a Scrum team means:
+**Commitment** - means the Scrum Team members should personally commit to achieving the Scrum Goals. Commitment is about **dedication and applies to the actions, the effort, not the final results.**
 
-- Commit to the team.
-- Commit to quality.
-- Commit to collaborate.
-- Commit to learn. Commit to do the best we can, every day again.
-- Commit to the Sprint Goal.
-- Commit to be professional.
-- Commit to self-organize.
-- Commit to excellence.
-- Commit to the agile principles. Commit to create working software.
-- Commit to look for improvements.
-- Commit to the Definition of Done.
-- Commit to the Scrum framework.
-- Commit to focus on Value.
-- ommit to finish work.
-- Commit to inspect & adapt. Commit to transparency.
-- Commit to challenge the status-quo.
+**Commitment** - is vital becuase it can transform a team. It’s a promise to yourself, your teammates, and your organisation to do the very best work you can. If everyone on your Scrum team is committed to delivering a done increment of valuable product each and every sprint, you can accomplish great things together.
 
-Why is Commitment so vital:
-Commitment can transform a team. It’s a promise to yourself, your teammates, and your organisation to do the very best work you can. If everyone on your Scrum team is committed to delivering a done increment of valuable product each and every sprint, you can accomplish great things together.
+Commitment value for a Scrum team is NOT about treating estimates as as deadlines, rather:
 
+- Commitment to the team.
+- Commitment to quality.
+- Commitment to collaborate.
+- Commitment to learn. Commit to do the best we can, every day again.
+- Commitment to the Sprint Goal.
+- Commitment to be professional.
+- Commitment to self-organize.
+- Commitment to excellence.
+- Commitment to the agile principles. Commit to create working software.
+- Commitment to look for improvements.
+- Commitment to the Definition of Done.
+- Commitment to the Scrum framework.
+- Commitment to focus on Value.
+- Commitment to finish work.
+- Commitment to inspect & adapt. Commit to transparency.
+- Commitment to challenge the status-quo.
 
+---
 
 ### 🎯 Focus
 
