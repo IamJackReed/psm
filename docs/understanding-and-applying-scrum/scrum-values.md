@@ -49,6 +49,13 @@ The Scrum Values describe five simple ideas that when practiced encourage an agi
 When talking about an agile mindset, that includes the Scrum
 values, the values and principles from the Manifesto for Agile Software Development, and Lean Principles.4 These values and principles guide the decisions that a Scrum Team makes, and they directly affect the effectiveness of that team in collaborating while using an empirical process to deliver valuable Product Increments.
 
+Software development is complex and so are people. When things are going well, the complexity seems manageable. But when stuff starts hitting the fan, bad things can and do happen. These difficult moments are why we need the Scrum values.
+
+Understanding the Scrum values can lead to better decisions, higher-quality work, and a truly collaborative environment.
+
+These values are critical to understanding the "WHY" of Scrum. They act as guideposts when your team gets lost. More importantly, they drive the decisions that impact your daily work. Failing to understand them prevents your team from improving their ability to deliver value.
+
+The Scrum values can guide you through the many obstacles and difficult situations that inevitably arise during software development projects. Without these values, your practices become rote and collaboration feels forced and mechanical.
 
 ---
 
@@ -91,7 +98,13 @@ Insights
 - Commit to inspect & adapt. Commit to transparency.
 - Commit to challenge the status-quo.
 
+Why is Commitment so vital:
+Commitment can transform a team. It’s a promise to yourself, your teammates, and your organisation to do the very best work you can. If everyone on your Scrum team is committed to delivering a done increment of valuable product each and every sprint, you can accomplish great things together.
+
+
+
 [There’s value in the Scrum Values](https://guntherverheyen.com/2013/05/03/theres-value-in-the-scrum-values/) - _Gunther Verheyen_
+
 
 
 
