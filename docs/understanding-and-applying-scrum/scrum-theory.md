@@ -43,7 +43,8 @@ You won’t always be able to provoke the changes that need to be made. But you 
 **Raise transparency and ensure that decision makers have the information they need to make any necessary changes.**
 
 ---
-### <span style="color: white;">Transparency</span>
+
+### Transparency
 <img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-theory-9df09680.png" width="50%" height="50%">
 
 The emergent process and work must be visible to those performing the work as well as those receiving the work.
@@ -52,22 +53,23 @@ With Scrum, important decisions are based on the perceived state of its three fo
 
 Transparency enables inspection. Inspection without transparency is misleading and wasteful.
 
+Coaching
+{: .label .label-yellow }
 There can be challenges with transparency, for example,
 
-- Are the team comfortable working in an Agile way, breaking work down and delivering it in an incremental and iterative way?
-- Do the team regularly update the Product Backlog and Sprint Backlog?
-- Are they able to produce a done, useable, valuable increment every Sprint?
-- Do the team trust one another and are they working towards common goals?
-- Is there a blame culture in the organisation?
-- Are the team trusted, empowered and allowed to (sometimes) fail?
-- Are the team nervous about speaking up in front of senior stakeholders?
-- Is there a fear of conflict?
+- [ ] Are the team comfortable working in an Agile way, breaking work down and delivering it in an incremental and iterative way?
+- [ ] Do the team regularly update the Product Backlog and Sprint Backlog?
+- [ ] Are they able to produce a done, useable, valuable increment every Sprint?
+- [ ] Do the team trust one another and are they working towards common goals?
+- [ ] Is there a blame culture in the organisation?
+- [ ] Are the team trusted, empowered and allowed to (sometimes) fail?
+- [ ] Are the team nervous about speaking up in front of senior stakeholders?
+- [ ] Is there a fear of conflict?
 
 ---
 
-### <span style="color: white;">Inspection & Adaptation</span>
-
-![](assets/scrum-theory-7a6a3b9f.png)
+### Inspection & Adaptation
+<img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-theory-7a6a3b9f.png" width="50%" height="50%">
 
 The Scrum artifacts and the progress toward agreed goals must be inspected frequently and diligently to detect potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five events.
 
@@ -79,7 +81,6 @@ If any aspects of a process deviate outside acceptable limits or if the resultin
 
 Coaching
 {: .label .label-yellow }
-
 There can be challenges with inspection and adaptation, for example,
 Is there an understanding that the plan for a Sprint isn’t set in stone and updating timelines and scope for product delivery is not only normal but also desirable?
 
