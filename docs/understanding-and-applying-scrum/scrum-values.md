@@ -65,7 +65,8 @@ The Scrum values can guide you through the many obstacles and difficult situatio
 Scrum Guide - 2020
 {: .label .label-green }
 
-- Successful use of Scrum depends on people becoming more proficient in living five values: Commitment, Focus, Openness, Respect, and Courage.- The Scrum Team commits to achieving its goals and to supporting each other.- Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint.
+- Successful use of Scrum depends on people becoming more proficient in living five values: Commitment, Focus, Openness, Respect, and Courage.
+- The Scrum Team commits to achieving its goals and to supporting each other.- Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint.
 - Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured.
 - [Artifact commitment:] For the Product Backlog it is the Product Goal.
 - [Artifact commitment:] For the Sprint Backlog it is the Sprint Goal.
