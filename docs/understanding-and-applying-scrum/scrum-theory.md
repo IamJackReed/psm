@@ -44,7 +44,7 @@ You won’t always be able to provoke the changes that need to be made. But you 
 
 ### Transparency
 
-<img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-theory-3406c327.png" width="50%" height="50%">
+<p style="font-size:100px">💎</p>
 
 The emergent process and work must be visible to those performing the work as well as those receiving the work.
 
