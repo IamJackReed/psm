@@ -33,8 +33,6 @@ Successful use of Scrum depends on people becoming more proficient in living fiv
 - **Respect**
 - **Courage**
 
-![](assets/scrum-values-412c2340.png)
-
 **Lack of trust impacts all of the above Values.**
 
 These values give direction to the Scrum Team with regard to their work, actions, and behaviour. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them.
