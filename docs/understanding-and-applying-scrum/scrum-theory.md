@@ -46,6 +46,12 @@ You won’t always be able to provoke the changes that need to be made. But you 
 
 <img src="/psm/docs/understanding-and-applying-scrum/assets/scrum-theory-255b0121.png" width="50%" height="50%">
 
+The emergent process and work must be visible to those performing the work as well as those receiving the work.
+
+With Scrum, important decisions are based on the perceived state of its three formal artifacts. Artifacts that have low transparency can lead to decisions that diminish value and increase risk.
+
+Transparency enables inspection. Inspection without transparency is misleading and wasteful.
+
 There can be challenges with transparency, for example,
 
 - Are the team comfortable working in an Agile way, breaking work down and delivering it in an incremental and iterative way?
@@ -61,6 +67,14 @@ There can be challenges with transparency, for example,
 
 ![](assets/scrum-theory-e9d8570a.png)
 
+The Scrum artifacts and the progress toward agreed goals must be inspected frequently and diligently to detect potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five events.
+
+**Inspection enables adaptation**. Inspection without adaptation is considered pointless. Scrum events are designed to provoke change.
+
+If any aspects of a process deviate outside acceptable limits or if the resulting product is unacceptable, the process being applied or the materials being produced must be adjusted. The adjustment must be made as soon as possible to minimise further deviation.
+
+**Adaptation becomes more difficult when the people involved are not empowered or self-managing**. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
+
 There can be challenges with inspection and adaptation, for example,
 
 Is there an understanding that the plan for a Sprint isn’t set in stone and updating timelines and scope for product delivery is not only normal but also desirable?
@@ -73,12 +87,4 @@ Is there an understanding that the plan for a Sprint isn’t set in stone and up
 - Once a plan has been made, is it difficult to change that plan?
 - Are estimates treated as commitments?
 
-
-| Modifier  | Screen size                          |
-|:----------|:-------------------------------------|
-| (none)    | All screens until the next modifier  |
-| `xs`      | 320px (20rem) and up                 |
-| `sm`      | 500px (31.25rem) and up              |
-| `md`      | 740px (46.25rem) and up              |
-| `lg`      | 1120px (70rem) and up                |
-| `xl`      | 1400px (87.5rem) and up              |
+---

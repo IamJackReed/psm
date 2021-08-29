@@ -6,7 +6,17 @@ nav_order: 3
 ---
 
 # Scrum Definition
+{: .no_toc }
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## Scrum Definition
 The Scrum framework is **purposefully incomplete**, only defining the parts required to implement Scrum theory.
 
 Scrum is a **lightweight** framework that helps people, teams and organisations **generate value** through **adaptive solutions** for **complex problems**.
@@ -49,3 +59,5 @@ Scrum is:
 - Employs an **iterative, incremental approach to optimise predictability and to control risk.**
 - lightweight.
 - Simple to understand.
+
+---
