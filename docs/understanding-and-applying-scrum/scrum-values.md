@@ -20,7 +20,7 @@ nav_order: 5
 
 <img src="/psm/docs/understanding-and-applying-scrum/assets/lists-63d25bd8.png">
 
-### Scrum Value - Scrum Guide
+### Scrum Guide
 Scrum Guide - 2020
 {: .label .label-green }
 
@@ -36,11 +36,11 @@ Scrum Guide - 2020
 - When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
 - These [Artifact] commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders.
 
-**Lack of trust impacts all of the above Values.**
-
-### Scrum Value - Insights
-Scrum Values - Insights
+### Insights
+Insights
 {: .label .label-yellow }
+
+**Lack of trust impacts all of the above Values.**
 
 The Scrum framework can seem mechanical on its own. Many Scrum teams treat the roles, artifacts, and events as items to check off of a list during a Sprint, rather than as powerful tools for delivering products. This lack of life in the framework in and in response to the need for a supporting a culture that would enable Scrum to be successful was likely why, in 2017, the Scrum founders added the Scrum values to The Scrum Guide.
 
