@@ -38,6 +38,10 @@ There is no such thing as a perfect plan when building a complex product. Detail
 
 ![](assets/scrum-theory-64b9cb72.png)
 
+<p align="center">
+  <img width="75%" height="75%" src="/docs/understanding-and-applying-scrum/assets/scrum-theory-64b9cb72.png">
+</p>
+
 You won’t always be able to provoke the changes that need to be made. But you can always...
 
 **Raise transparency and ensure that decision makers have the information they need to make any necessary changes.**
@@ -72,12 +76,6 @@ Is there an understanding that the plan for a Sprint isn’t set in stone and up
 - Are the team trusted to come up with their own solutions?
 - Once a plan has been made, is it difficult to change that plan?
 - Are estimates treated as commitments?
-
-
-
-<p align="center">
-  <img width="100%" height="100%" src="assets/scrum-theory-e9d8570a.png">
-</p>
 
 
 | Modifier  | Screen size                          |
