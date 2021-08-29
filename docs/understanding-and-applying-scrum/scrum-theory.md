@@ -25,26 +25,39 @@ Scrum employs an iterative, incremental approach to optimise predictability and 
 
 Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint. These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation.
 
-### Large image
+### Empiricism
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+![](assets/scrum-theory-a8b2f700.png)
+There is no such thing as a perfect plan when building a complex product. Detailed plans will almost certainly not work. Scrum Teams still plan, but embrace change and focus on using an empirical approach. Empiricism needs:
+
+- Genuine transparency else all decisions will be based on bad or incomplete information.
+- People need to be open and honest about what they have done, what is not done and what problems were encountered along the way.
+- Culture to be fostered allowing people to feel they can talk openly without fear of blame.
+- One way to think about this is to adopt a mindset of  there is no good or bad news… there is just news.
+
+![](assets/scrum-theory-64b9cb72.png)
+You won’t always be able to provoke the changes that need to be made. But you can always...
+
+**Raise transparency and ensure that decision makers have the information they need to make any necessary changes.**
+
+#### Transparency
+
+![](assets/scrum-theory-c1c6d372.png)
+There can be challenges with transparency, for example,
+
+- Are the team comfortable working in an Agile way, breaking work down and delivering it in an incremental and iterative way?
+- Do the team regularly update the Product Backlog and Sprint Backlog?
+- Are they able to produce a done, useable, valuable increment every Sprint?
+- Do the team trust one another and are they working towards common goals?
+- Is there a blame culture in the organisation?
+- Are the team trusted, empowered and allowed to (sometimes) fail?
+- Are the team nervous about speaking up in front of senior stakeholders?
+- Is there a fear of conflict?
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-**
 
 | Modifier  | Screen size                          |
 |:----------|:-------------------------------------|
