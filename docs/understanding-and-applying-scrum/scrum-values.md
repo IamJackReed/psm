@@ -21,6 +21,7 @@ nav_order: 5
 <img src="/psm/docs/understanding-and-applying-scrum/assets/lists-63d25bd8.png">
 
 ### Scrum Guide
+
 Scrum Guide - 2020
 {: .label .label-green }
 
@@ -37,6 +38,7 @@ Scrum Guide - 2020
 - These [Artifact] commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders.
 
 ### Insights
+
 Insights
 {: .label .label-yellow }
 
@@ -76,6 +78,7 @@ Scrum Guide - 2020
 - Although the Sprint Goal is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it.
 
 ### Insights
+
 Insights
 {: .label .label-yellow }
 
@@ -109,6 +112,24 @@ In a Scrum context the decisions we take, the steps we take, the way we play Scr
 ---
 
 ### 🎯 Focus
+
+### Scrum Guide
+Scrum Guide - 2020
+{: .label .label-green }
+
+- [The Scrum Team] is a cohesive unit of professionals focused on one objective at a time, the Product Goal.
+- If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product.
+- Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency.
+- The Scrum Master serves the Scrum Team in several ways, including helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done.
+- The Sprint Goal also creates coherence and focus, encouraging the Scrum Team to work together rather than on separate initiatives
+- Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency.
+- The Developers can select whatever structure and techniques they want, as long as their Daily Scrum focuses on progress toward the Sprint Goal and produces an actionable plan for the next day of work. This creates focus and improves self- management.
+- Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured.
+- Their primary focus is on the work of the Sprint to make the best possible progress toward these goals.
+- The Scrum Master serves the Scrum Team in several ways, including helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done.
+
+Insights
+{: .label .label-yellow }
 
 **Everyone focuses on the work of the Sprint and goals of the Scrum team.**
 
