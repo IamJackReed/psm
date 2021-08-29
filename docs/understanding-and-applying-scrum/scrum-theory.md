@@ -53,7 +53,7 @@ With Scrum, important decisions are based on the perceived state of its three fo
 Transparency enables inspection. Inspection without transparency is misleading and wasteful.
 
 ☝️Coaching
-{: .label .label-yellow }
+{: .label }
 There can be challenges with transparency, for example,
 
 - [ ] Are the team comfortable working in an Agile way, breaking work down and delivering it in an incremental and iterative way?
@@ -82,7 +82,7 @@ If any aspects of a process deviate outside acceptable limits or if the resultin
 **Adaptation becomes more difficult when the people involved are not empowered or self-managing**. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
 
 ☝️Coaching
-{: .label .label-yellow }
+{: .label }
 There can be challenges with inspection and adaptation, for example,
 Is there an understanding that the plan for a Sprint isn’t set in stone and updating timelines and scope for product delivery is not only normal but also desirable?
 
@@ -96,4 +96,4 @@ Is there an understanding that the plan for a Sprint isn’t set in stone and up
 
 ---
 
-[See Scrum Values Next](https://iamjackreed.github.io/psm/docs/understanding-and-applying-scrum/scrum-values/){: .btn }
+[Scrum Values](https://iamjackreed.github.io/psm/docs/understanding-and-applying-scrum/scrum-values/){: .btn-blue}

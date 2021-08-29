@@ -62,4 +62,4 @@ Scrum is:
 
 ---
 
-[See Scrum Theory Next](https://iamjackreed.github.io/psm/docs/understanding-and-applying-scrum/scrum-theory/){: .btn }
+[Scrum Theory](https://iamjackreed.github.io/psm/docs/understanding-and-applying-scrum/scrum-theory/){: .btn-blue}

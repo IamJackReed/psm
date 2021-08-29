@@ -58,7 +58,7 @@ Scrum values **give direction to the work done in Scrum**, along with the work e
 - Commit to transparency.
 
 ☝️Coaching
-{: .label .label-yellow }
+{: .label }
 
 Scrum isn’t meant to be easy. It is designed to provoke change and change can push people outside their comfort zones. If you are starting with a new team observe whether they are living and breathing the Scrum Values. For example, when observing a Scrum Team in terms of commitment:
 
@@ -72,7 +72,7 @@ Scrum isn’t meant to be easy. It is designed to provoke change and change can 
 **Everyone focuses on the work of the Sprint and goals of the Scrum team.**
 
 ☝️Coaching
-{: .label .label-yellow }
+{: .label }
 
 - [ ] Are the Scrum Team focussed on the Sprint Goal and able to stay focussed when distractions inevitably arise?
 
@@ -81,18 +81,18 @@ Scrum isn’t meant to be easy. It is designed to provoke change and change can 
 **Scrum Team members have courage to do the right thing and work on tough problems.**
 
 ☝️Coaching
-{: .label .label-yellow }
+{: .label }
 
 ### ❤️ Respect
 
 **Scrum Team members respect each other to be capable, independent people.**
 
 ☝️Coaching
-{: .label .label-yellow }
+{: .label }
 
 ### 🚪 Openness
 
 **Scrum Team and its stakeholders agree to be open about the all the work and the challenges with performing the work.**
 
 ☝️Coaching
-{: .label .label-yellow }
+{: .label }
