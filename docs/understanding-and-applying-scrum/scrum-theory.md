@@ -45,7 +45,6 @@ You won’t always be able to provoke the changes that need to be made. But you 
 ### Transparency
 
 <p style="font-size:100px">💎</p>
-
 The emergent process and work must be visible to those performing the work as well as those receiving the work.
 
 With Scrum, important decisions are based on the perceived state of its three formal artifacts. Artifacts that have low transparency can lead to decisions that diminish value and increase risk.
