@@ -25,7 +25,7 @@ Scrum employs an iterative, incremental approach to optimise predictability and 
 
 Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint. These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation.
 
-### Empiricism
+## Empiricism
 
 ![](assets/scrum-theory-a8b2f700.png)
 
