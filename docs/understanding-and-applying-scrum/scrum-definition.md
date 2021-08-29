@@ -35,11 +35,8 @@ Each element of the framework serves a specific purpose that is essential to the
 In a nutshell, Scrum requires a Scrum Master to foster an environment where:
 
 - A Product Owner orders the work for a complex problem into a Product Backlog.
-
 - The Scrum Team turns a selection of the work into an Increment of value during a Sprint.
-
 - The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.
-
 - Repeat
 
 Scrum is simple. Try it as is and determine if its philosophy, theory, and structure help to achieve goals and create value.
