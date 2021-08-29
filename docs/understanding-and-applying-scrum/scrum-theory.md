@@ -68,7 +68,7 @@ If any aspects of a process deviate outside acceptable limits or if the resultin
 
 **Adaptation becomes more difficult when the people involved are not empowered or self-managing**. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
 
-☝️Coaching
+💡 Coaching
 {: .label }
 **Transparency** - there can be challenges with transparency, for example,
 
