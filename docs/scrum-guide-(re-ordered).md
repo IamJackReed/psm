@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scrum Guide, 2020 (re-ordered)
+title: Scrum Guide (re-ordered)
 nav_order: 4
 ---
 
