@@ -160,11 +160,15 @@ In a Scrum context the decisions we take, the steps we take, the way we play Scr
 
 - **Focus** means everyone should be focused on the sprint goal and the desired outcome of the sprint. The product owner must be focused on value, while the development team should focus on delivery and quality under the watchful eye of the Scrum master, who’s focused on the team’s use of Scrum and on removing any impediment that blocks them from delivering the increment.
 
+- **Focus** allows us to do our very best. Valuing focus means that we give people the time they need to think about their work. After all, creativity is hard enough without being constantly interrupted. Allowing development team members to focus just on one product, the current sprint, and the current sprint goal gives them the best chance of succeeding. Encourage the product owner to focus on the future value of the product while you, the Scrum master, focus on upholding Scrum.
+
 **Everyone focuses on the work of the Sprint and goals of the Scrum team.**
 
 ---
 
 **🦁 Courage**
+
+- **Courage** is the linchpin of the other Scrum values. It takes courage to commit, to focus amid distractions, and to be open to new ideas. And it takes courage and faith in your teammates to count on having respectful interactions when you need to discuss problems.
 
 - **Courage** means the Scrum team should have the courage needed to work transparently, to do the right thing—even when it’s painful—and to tackle difficult challenges.
 
@@ -172,11 +176,17 @@ In a Scrum context the decisions we take, the steps we take, the way we play Scr
 
 **❤️ Respect**
 
+- **Respect** creates a feeling of safety. Being open with others can be scary and admitting when you’re stuck is hard, but respect makes these actions easier. A high-performing Scrum team is built on mutual respect, and honest discussions create the safety needed to tackle difficult issues. Respect helps a team gel, grow, and learn together.
+
 - **Respect** means the Scrum team members need to show respect for one another and for everyone outside the team, seeing them as capable, intelligent, and creative problem solvers who are each doing the best work they can.
 
 ---
 
 **🚪 Openness**
+
+- **Openness** is the core of transparency, which is what makes Scrum work. If the members of your Scrum team (and the people who work with your team) aren’t open with each other and the wider organization, they can’t solicit honest feedback or adapt their work accordingly. You need to be open and honest, even when you’re struggling or there’s a tough issue to address. If you aren’t, transparency will suffer.
+
+- **Scrum is designed to keep failures small and manageable, making risk management a built-in feature of the framework. If your team can’t talk about its small failures openly, that increases the risk that big troubles are around the corner.
 
 - **Openness** is more about the idea that you could be wrong about something, than it is about just being open and sharing your opinion.
 
@@ -258,6 +268,21 @@ The Scrum Master does not own all of the actions for improvement. The individual
 
 ---
 
+**Two ways you can help your team get more familiar with the Scrum values** - Ryan Ripley, Jan 2020
+
+1.  During a Sprint retrospective, write each value across a board.
+- [ ] Ask the team to come up with ways that they applied each value during the last sprint?
+- [ ] Ask how the values were violated?
+
+Use the responses to generate a discussion about each value - over time, this will create a common understanding about how each value applies to the team.
+
+If the team is struggling with embracing the Scrum values, you can perform this exercise during every retrospective.
+
+If the team is consistently working well together, you may not need to perform it very often (though you should still do it occasionally, just to keep the values fresh in everyone’s minds.)
+
+2. If your team is more action-oriented, try framing each Scrum value as a product backlog item in the product backlog. For example: “**As a __, I want to ____ in order to _____.**” Use this format to make these value stories’ actionable. For example, “**As a Scrum team member, I want to show up on time to Scrum events in order to show my teammates that I respect them.**”
+
+---
 
 References for further reading:
 
@@ -266,4 +291,5 @@ References for further reading:
 - Lean software development - [Mary Poppendieck/Tom Poppendieck](https://en.wikipedia.org/wiki/Lean_software_development)
 - 4 Ways to Coach with the Scrum Values - [Stephanie Ockerman](https://www.scrum.org/resources/blog/4-ways-coach-scrum-values)
 - There’s value in the Scrum Values [Gunther Verheyen](https://guntherverheyen.com/2013/05/03/theres-value-in-the-scrum-values/)
+- Fixing your Scrum - [Ryan Ripley/Todd Miller](https://www.amazon.co.uk/Fixing-Your-Scrum-Ryan-Ripley/dp/1680506978)
 - Scrum Reboot [Dave West/Richard Gratton](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2017-12/Case-Study_Intarlinks-Reboot_July2017v3.pdf)
