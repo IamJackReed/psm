@@ -125,15 +125,15 @@ The Scrum values can guide you through the many obstacles and difficult situatio
 
 ---
 
-**Commitment**
+**🤝 Commitment**
+
+**Commitment** means the Scrum Team members should commit to bringing their best efforts forward and helping each other succeed.
+
+**Commitment** means the Scrum Team members should personally commit to achieving the Scrum Goals. Commitment is about **dedication and applies to the actions, the effort, not the final results.**
+
+**Commitment** is vital because it can transform a team. It’s a promise to yourself, your teammates, and your organisation to do the very best work you can. If everyone on your Scrum team is committed to delivering a done increment of valuable product each and every sprint, you can accomplish great things together.
 
 **People personally commit to achieving the goals of the Scrum Team.**
-
-**Commitment** - means the Scrum Team members should commit to bringing their best efforts forward and helping each other succeed.
-
-**Commitment** - means the Scrum Team members should personally commit to achieving the Scrum Goals. Commitment is about **dedication and applies to the actions, the effort, not the final results.**
-
-**Commitment** - is vital because it can transform a team. It’s a promise to yourself, your teammates, and your organisation to do the very best work you can. If everyone on your Scrum team is committed to delivering a done increment of valuable product each and every sprint, you can accomplish great things together.
 
 In a Scrum context the decisions we take, the steps we take, the way we play Scrum, the practices we add to Scrum, the activities we surround Scrum with should re-enforce these values, not diminish or undermine them:
 
@@ -156,17 +156,17 @@ In a Scrum context the decisions we take, the steps we take, the way we play Scr
 
 ---
 
-**Focus**
+**🎯 Focus**
+
+- **Focus** means everyone should be focused on the sprint goal and the desired outcome of the sprint. The product owner must be focused on value, while the development team should focus on delivery and quality under the watchful eye of the Scrum master, who’s focused on the team’s use of Scrum and on removing any impediment that blocks them from delivering the increment.
 
 **Everyone focuses on the work of the Sprint and goals of the Scrum team.**
-
-- **Focus** - means everyone should be focused on the sprint goal and the desired outcome of the sprint. The product owner must be focused on value, while the development team should focus on delivery and quality under the watchful eye of the Scrum master, who’s focused on the team’s use of Scrum and on removing any impediment that blocks them from delivering the increment.
 
 ---
 
 **Courage**
 
-- **Courage** - means the Scrum team should have the courage needed to work transparently, to do the right thing—even when it’s painful—and to tackle difficult challenges.
+- **Courage** means the Scrum team should have the courage needed to work transparently, to do the right thing—even when it’s painful—and to tackle difficult challenges.
 
 ---
 
@@ -175,33 +175,98 @@ In a Scrum context the decisions we take, the steps we take, the way we play Scr
 Scrum Guide - 2020
 {: .label .label-green }
 
-- **Respect** - means the Scrum team members need to show respect for one another and for everyone outside the team, seeing them as capable, intelligent, and creative problem solvers who are each doing the best work they can.
+- **Respect** means the Scrum team members need to show respect for one another and for everyone outside the team, seeing them as capable, intelligent, and creative problem solvers who are each doing the best work they can.
 
 ---
 
 **Openness**
 
-- **Respect** - means...
+- **Openness** is more about the idea that you could be wrong about something, than it is about just being open and sharing your opinion.
 
 ---
 
 💡 Coaching
 {: .label .label-blue }
 
-**Commitment** - Scrum isn’t meant to be easy. It is designed to provoke change and change can push people outside their comfort zones. If you are starting with a new team observe whether they are living and breathing the Scrum Values. For example, when observing a Scrum Team in terms of commitment:
+Scrum isn’t meant to be easy. It is designed to provoke change and change can push people outside their comfort zones. How can you tell if a Scrum Team are living and breathing the Scrum Values?
 
 - [ ] Are they committed to the team’s goals or their own personal goals?
 - [ ] Are they willing to collaborate and find solutions when things go wrong or do they throw their hands in the air and give up?
 - [ ] Are they willing to try something else?
 - [ ] Are they willing to volunteer for tasks they don’t particularly enjoy or that aren’t in their core skillset if it’s in the best interests of the team?
-
-**Focus** -
 - [ ] Are the Scrum Team focussed on the Sprint Goal and able to stay focussed when distractions inevitably arise?
+- [ ] Are they open to the idea that they may be wrong about something?
+- [ ] Are they open to discovering alternative solutions or to asking people outside the team for their advice?
+- [ ] Do they have a fixed mindset?
+- [ ] Are they insular and part of a clique or are they willing to embrace alternative ideas and suggestions?
+- [ ] Do they treat their team-members and co-workers with respect?
+- [ ] Do they value the rest of the team and treat them as equals?
+- [ ] Do they listen to other opinions without constantly interrupting?
+- [ ] Do they turn up to meetings on time and are they present during the meetings?
+- [ ] Do they have the courage to push back against unrealistic demands?
+- [ ] Do they stand up and share their concerns?
+- [ ] Do they challenge one another and hold each other accountable?
+- [ ] Do they ask difficult questions and hold their hands up when they’ve made a mistake?
+
+- As a Scrum Master, you demonstrate servant leadership by coaching with the Scrum values.
 
 ---
 
+**4 Ways to Coach with the Scrum Values** - Stephanie Ockerman, 2017
+
+**1. Establish what the Scrum values mean to us as individuals and as a team.**
+Teams need to form an identity in order to be effective - one piece of identity is understanding values.
+
+Team members need to work through what their values actually mean to them because individuals each have different interpretations of values, and different teams will have different interpretations of values.
+
+Questions to ask to coach with the Scrum values:
+
+- [ ] What is important about [Scrum value]?
+- [ ] What does it look like to honour [Scrum value] in our daily work?
+- [ ] What does it look like to ignore [Scrum value] in our daily work?
+- [ ] How does it feel to be in alignment with [Scrum value]?
+
+If there are conflicts between individual values and the Scrum values, explore that further. Negotiation may be necessary to enable teams to be effective and individuals to feel in alignment with what matters to them.
+
+**2. Use the Scrum values to help guide decision-making.**
+Once teams have established what the Scrum values mean to them, the values can be used as a tool to help guide decision-making.  Scrum Masters can recognise when Scrum Teams get stuck when facing a challenging decision.  It could be about what to build, how to build something, processes, tools, relationships and interactions… anything.
+
+Questions to ask to coach with the Scrum values:
+
+- [ ] What would [Scrum value] tell us about this decision?
+- [ ] Which Scrum value feels most important for this decision?
+
+**3. Observe and discuss outcomes and behaviours and refine what the Scrum values mean to us.**
+The Scrum values discussion is not a one-time thing.  We will continuously encounter new situations that require more discovery of how we interpret and use the Scrum values.  We will also fail to honour our team commitments regarding the Scrum values. So we need to be inspecting and adapting on how we are living the Scrum values. Sprint Retrospectives are a great opportunity for this.
+
+Reflective questions to ask to coach with the Scrum values:
+
+- [ ] How did we honour [Scrum value] this Sprint?
+- [ ] Which Scrum values helped us achieve [outcome]?
+- [ ] Which values do we want to honour more?
+- [ ] What will be possible when we honour this value?
+- [ ] In what situations does it feel most difficult to honour [Scrum value]?
+
+**4. Identify actions for improvement.**
+A key part of coaching is moving to commitment and accountability. This is what helps people grow – taking action after we have enough learning and discovery.
+
+Commitment-focused questions to ask to coach with the Scrum values:
+
+- [ ] When we honour [Scrum value], what are we saying yes to?
+- [ ] When we honour [Scrum value], what are we saying no to?
+- [ ] Who do we/you need to be in order to do [actionable commitment]?
+- [ ] What can I do to support you with [actionable commitment]?
+
+The Scrum Master does not own all of the actions for improvement. The individuals and the team own their commitments.
+
+---
+
+
 References for further reading:
 
-[There’s value in the Scrum Values](https://guntherverheyen.com/2013/05/03/theres-value-in-the-scrum-values/) - _Gunther Verheyen_
-
-[Maximize Scrum with the Scrum Values: Commitment (Part 4 of 5)](https://www.scrum.org/resources/blog/maximize-scrum-scrum-values-commitment-part-4-5) - _Stephanie Ockerman_
+- The 2020 Scrum Guide - [Scrum Guide - 2020](https://scrumguides.org/scrum-guide.html)
+- Manifesto for Agile Software Development - [Principles/Values](https://agilemanifesto.org/)
+- Lean software development - [Mary Poppendieck/Tom Poppendieck](https://en.wikipedia.org/wiki/Lean_software_development)
+- 4 Ways to Coach with the Scrum Values - [Stephanie Ockerman](https://www.scrum.org/resources/blog/4-ways-coach-scrum-values)
+- There’s value in the Scrum Values [Gunther Verheyen](https://guntherverheyen.com/2013/05/03/theres-value-in-the-scrum-values/)
+- Scrum Reboot [Dave West/Richard Gratton](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2017-12/Case-Study_Intarlinks-Reboot_July2017v3.pdf)
