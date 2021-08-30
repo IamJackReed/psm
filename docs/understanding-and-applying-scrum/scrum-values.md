@@ -200,10 +200,10 @@ In a Scrum context the decisions we take, the steps we take, the way we play Scr
 
 ---
 
-💡 Coaching
+Coaching
 {: .label .label-blue }
 
-Scrum isn’t meant to be easy. It is designed to provoke change and change can push people outside their comfort zones. How can you tell if a Scrum Team are living and breathing the Scrum Values?
+💡 Scrum isn’t meant to be easy. It is designed to provoke change and change can push people outside their comfort zones. How can you tell if a Scrum Team are living and breathing the Scrum Values?
 
 - [ ] Are they committed to the team’s goals or their own personal goals?
 - [ ] Are they willing to collaborate and find solutions when things go wrong or do they throw their hands in the air and give up?
@@ -227,7 +227,7 @@ Scrum isn’t meant to be easy. It is designed to provoke change and change can 
 
 ---
 
-**4 Ways to Coach with the Scrum Values** - Stephanie Ockerman, 2017
+💡 **4 Ways to Coach with the Scrum Values** - Stephanie Ockerman, 2017
 
 **1. Establish what the Scrum values mean to us as individuals and as a team.**
 Teams need to form an identity in order to be effective - one piece of identity is understanding values.
@@ -276,7 +276,7 @@ The Scrum Master does not own all of the actions for improvement. The individual
 
 ---
 
-**Two ways you can help your team get more familiar with the Scrum values** - Ryan Ripley, Jan 2020
+💡 **Two ways you can help your team get more familiar with the Scrum values** - Ryan Ripley, Jan 2020
 
 1.  During a Sprint retrospective, write each value across a board.
 - [ ] Ask the team to come up with ways that they applied each value during the last sprint?
@@ -292,7 +292,7 @@ If the team is consistently working well together, you may not need to perform i
 
 ---
 
-**Visualising Scrum Values** - Steve Trapps, 2018
+💡 **Visualising Scrum Values** - Steve Trapps, 2018
 
 Ask the team to each rate themselves of against a list of statements, giving 1 point for each statement they agree with - then use a spider graph to show the results over time:
 
