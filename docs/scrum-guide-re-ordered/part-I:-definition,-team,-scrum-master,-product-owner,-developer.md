@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Color
-parent: Utilities
+title: Part I: Definition, Team, Scrum Master, Product Owner, Developer
+parent: Scrum Guide, 2020 (re-ordered)
 ---
 
 # Color Utilities
