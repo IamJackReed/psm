@@ -33,6 +33,72 @@ Scrum Guide - 2020
 - When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
 - These [Artifact] commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders.
 
+---
+
+## 🤝 Commitment
+
+Scrum Guide - 2020
+{: .label .label-green }
+
+- Successful use of Scrum depends on people becoming more proficient in living five values: Commitment, Focus, Openness, Respect, and Courage.
+- The Scrum Team commits to achieving its goals and to supporting each other.
+- Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint.
+- Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured.
+- [Artifact commitment:] For the Product Backlog it is the Product Goal.
+- [Artifact commitment:] For the Sprint Backlog it is the Sprint Goal.
+- [Artifact commitment:] For the Increment it is the Definition of Done.
+- Although the Sprint Goal is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it.
+
+---
+
+## 🎯 Focus
+
+Scrum Guide - 2020
+{: .label .label-green }
+
+- [The Scrum Team] is a cohesive unit of professionals focused on one objective at a time, the Product Goal.
+- If Scrum Teams become too large, they should consider reorganising into multiple cohesive Scrum Teams, each focused on the same product.
+- Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency.
+- The Scrum Master serves the Scrum Team in several ways, including helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done.
+- The Sprint Goal also creates coherence and focus, encouraging the Scrum Team to work together rather than on separate initiatives
+- Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency.
+- The Developers can select whatever structure and techniques they want, as long as their Daily Scrum focuses on progress toward the Sprint Goal and produces an actionable plan for the next day of work. This creates focus and improves self- management.
+- Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured.
+- Their primary focus is on the work of the Sprint to make the best possible progress toward these goals.
+- The Scrum Master serves the Scrum Team in several ways, including helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done.
+
+---
+
+## 🦁 Courage
+
+Scrum Guide - 2020
+{: .label .label-green }
+
+**Scrum Team members have courage to do the right thing and work on tough problems.**
+
+---
+
+## ❤️ Respect
+
+Scrum Guide - 2020
+{: .label .label-green }
+
+**Scrum Team members respect each other to be capable, independent people, and are respected as such by the people with whom they work.**
+
+- For Product Owners to succeed, the entire organisation must respect their decisions.
+
+---
+
+## 🚪 Openness
+
+Scrum Guide - 2020
+{: .label .label-green }
+
+**Scrum Team and its stakeholders agree to be open about the all the work and the challenges with performing the work.**
+
+---
+
+
 Insights
 {: .label .label-yellow }
 
@@ -59,21 +125,7 @@ The Scrum values can guide you through the many obstacles and difficult situatio
 
 ---
 
-## 🤝 Commitment
-
-Scrum Guide - 2020
-{: .label .label-green }
-
-- Successful use of Scrum depends on people becoming more proficient in living five values: Commitment, Focus, Openness, Respect, and Courage.
-- The Scrum Team commits to achieving its goals and to supporting each other.- Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint.
-- Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured.
-- [Artifact commitment:] For the Product Backlog it is the Product Goal.
-- [Artifact commitment:] For the Sprint Backlog it is the Sprint Goal.
-- [Artifact commitment:] For the Increment it is the Definition of Done.
-- Although the Sprint Goal is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it.
-
-Insights
-{: .label .label-yellow }
+**Commitment**
 
 **People personally commit to achieving the goals of the Scrum Team.**
 
@@ -104,24 +156,7 @@ In a Scrum context the decisions we take, the steps we take, the way we play Scr
 
 ---
 
-## 🎯 Focus
-
-Scrum Guide - 2020
-{: .label .label-green }
-
-- [The Scrum Team] is a cohesive unit of professionals focused on one objective at a time, the Product Goal.
-- If Scrum Teams become too large, they should consider reorganising into multiple cohesive Scrum Teams, each focused on the same product.
-- Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency.
-- The Scrum Master serves the Scrum Team in several ways, including helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done.
-- The Sprint Goal also creates coherence and focus, encouraging the Scrum Team to work together rather than on separate initiatives
-- Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency.
-- The Developers can select whatever structure and techniques they want, as long as their Daily Scrum focuses on progress toward the Sprint Goal and produces an actionable plan for the next day of work. This creates focus and improves self- management.
-- Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured.
-- Their primary focus is on the work of the Sprint to make the best possible progress toward these goals.
-- The Scrum Master serves the Scrum Team in several ways, including helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done.
-
-Insights
-{: .label .label-yellow }
+**Focus**
 
 **Everyone focuses on the work of the Sprint and goals of the Scrum team.**
 
@@ -129,45 +164,24 @@ Insights
 
 ---
 
-## 🦁 Courage
-
-Scrum Guide - 2020
-{: .label .label-green }
-
-**Scrum Team members have courage to do the right thing and work on tough problems.**
-
-Insights
-{: .label .label-yellow }
+**Courage**
 
 - **Courage** - means the Scrum team should have the courage needed to work transparently, to do the right thing—even when it’s painful—and to tackle difficult challenges.
 
 ---
 
-## ❤️ Respect
+**Respect**
 
 Scrum Guide - 2020
 {: .label .label-green }
-
-**Scrum Team members respect each other to be capable, independent people, and are respected as such by the people with whom they work.**
-
-- For Product Owners to succeed, the entire organisation must respect their decisions.
-
-Insights
-{: .label .label-yellow }
 
 - **Respect** - means the Scrum team members need to show respect for one another and for everyone outside the team, seeing them as capable, intelligent, and creative problem solvers who are each doing the best work they can.
 
 ---
 
-## 🚪 Openness
+**Openness**
 
-Scrum Guide - 2020
-{: .label .label-green }
-
-**Scrum Team and its stakeholders agree to be open about the all the work and the challenges with performing the work.**
-
-Insights
-{: .label .label-yellow }
+- **Respect** - means...
 
 ---
 
