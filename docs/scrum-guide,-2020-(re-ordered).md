@@ -7,8 +7,11 @@ nav_order: 4
 # Scrum Guide, 2020 (re-ordered)
 {: .no_toc }
 
-CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
-{: .fs-6 .fw-300 }
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Part I: Definition, Team, Scrum Master, Product Owner, Developer
 
