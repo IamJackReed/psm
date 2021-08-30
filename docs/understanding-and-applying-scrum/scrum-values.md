@@ -164,22 +164,19 @@ In a Scrum context the decisions we take, the steps we take, the way we play Scr
 
 ---
 
-**Courage**
+**🦁 Courage**
 
 - **Courage** means the Scrum team should have the courage needed to work transparently, to do the right thing—even when it’s painful—and to tackle difficult challenges.
 
 ---
 
-**Respect**
-
-Scrum Guide - 2020
-{: .label .label-green }
+**❤️ Respect**
 
 - **Respect** means the Scrum team members need to show respect for one another and for everyone outside the team, seeing them as capable, intelligent, and creative problem solvers who are each doing the best work they can.
 
 ---
 
-**Openness**
+**🚪 Openness**
 
 - **Openness** is more about the idea that you could be wrong about something, than it is about just being open and sharing your opinion.
 
