@@ -102,12 +102,6 @@ Scrum Guide - 2020
 Insights
 {: .label .label-yellow }
 
-<img src="/psm/docs/understanding-and-applying-scrum/assets/lists-63d25bd8.png">
-
-**Lack of trust impacts all of the above Values.**
-
-These values relate to the ethics of Scrum, thereby from a social point of view turning Scrum into a value system.
-
 The Scrum framework can seem mechanical on its own. Many Scrum teams treat the roles, artifacts, and events as items to check off of a list during a Sprint, rather than as powerful tools for delivering products. This lack of life in the framework and in response to the need for a supporting a culture that would enable Scrum to be successful was likely why, in **2017, the Scrum founders added the Scrum values to The Scrum Guide**.
 
 The Scrum Values describe five simple ideas that when practiced **encourage an agile culture**. The Scrum values describe behaviours that both Scrum Teams and the organisations they work within should exhibit.
@@ -118,6 +112,12 @@ values**, the values and principles from the **Manifesto for Agile Software Deve
 Software development is complex and so are people. When things are going well, the complexity seems manageable. But when stuff starts hitting the fan, bad things can and do happen. These difficult moments are why we need the Scrum values.
 
 Understanding the Scrum values can lead to **better decisions**, **higher-quality work**, and a **truly collaborative environment**.
+
+<img src="/psm/docs/understanding-and-applying-scrum/assets/lists-63d25bd8.png">
+
+**Lack of trust impacts all of the above Values.**
+
+These values relate to the ethics of Scrum, thereby from a social point of view turning Scrum into a value system.
 
 These values are critical to understanding the "WHY" of Scrum. They act as guideposts when your team gets lost. More importantly, they drive the decisions that impact your daily work. Failing to understand them prevents your team from improving their ability to deliver value.
 
