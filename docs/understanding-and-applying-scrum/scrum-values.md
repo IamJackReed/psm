@@ -162,6 +162,8 @@ In a Scrum context the decisions we take, the steps we take, the way we play Scr
 
 - **Focus** allows us to do our very best. Valuing focus means that we give people the time they need to think about their work. After all, creativity is hard enough without being constantly interrupted. Allowing development team members to focus just on one product, the current sprint, and the current sprint goal gives them the best chance of succeeding. Encourage the product owner to focus on the future value of the product while you, the Scrum master, focus on upholding Scrum.
 
+- An iterative-incremental approach like Scrum and the time-boxing of Scrum allow us to focus. We focus on what’s most important now without being bothered by considerations of what at some point in time might stand a chance to become important. We focus on what we know now and YAGNI (You Ain’t Gonna Need It) helps retaining that focus. We focus on what’s most nearby in time as the future is highly uncertain and we want to learn from the present to gain experience for future work. We focus on the work to get things done. We focus on the simplest thing that might possibly work.
+
 **Everyone focuses on the work of the Sprint and goals of the Scrum team.**
 
 ---
@@ -172,6 +174,8 @@ In a Scrum context the decisions we take, the steps we take, the way we play Scr
 
 - **Courage** means the Scrum team should have the courage needed to work transparently, to do the right thing—even when it’s painful—and to tackle difficult challenges.
 
+- We show courage in not building stuff that nobody wants. Courage in admitting requirements will never be perfect and that no plan can capture reality and complexity. Courage to consider change as a source of inspiration and innovation. Courage to not deliver undone software. Courage in sharing all possible information (transparency) that might help the team and the organisation. Courage in admitting that nobody is perfect. Courage to change direction. Courage to share risks and benefits. Courage to promote Scrum and empiricism to deal with complexity. Courage to let go of the feint certainties of the past. We show courage to support the Scrum Values.
+
 ---
 
 **❤️ Respect**
@@ -180,13 +184,17 @@ In a Scrum context the decisions we take, the steps we take, the way we play Scr
 
 - **Respect** means the Scrum team members need to show respect for one another and for everyone outside the team, seeing them as capable, intelligent, and creative problem solvers who are each doing the best work they can.
 
+- We show respect for people, their experience and their personal background. We respect diversity (it makes us stronger). We respect different opinions (we might learn from it). We show respect for our sponsors by not building features that nobody will use. We show respect by not wasting money on things that are not valuable or might never being implemented or used. We show respect for users by fixing their problems. We respect the Scrum framework. We respect our wider environment by not behaving as an isolated island in the world. We respect each other’s skills, expertise and insights. We respect the accountabilities of the Scrum roles.
+
 ---
 
 **🚪 Openness**
 
-- **Openness** is the core of transparency, which is what makes Scrum work. If the members of your Scrum team (and the people who work with your team) aren’t open with each other and the wider organization, they can’t solicit honest feedback or adapt their work accordingly. You need to be open and honest, even when you’re struggling or there’s a tough issue to address. If you aren’t, transparency will suffer.
+- **Openness** is the core of transparency, which is what makes Scrum work. If the members of your Scrum team (and the people who work with your team) aren’t open with each other and the wider organisation, they can’t solicit honest feedback or adapt their work accordingly. You need to be open and honest, even when you’re struggling or there’s a tough issue to address. If you aren’t, transparency will suffer.
 
 - **Scrum is designed to keep failures small and manageable, making risk management a built-in feature of the framework. If your team can’t talk about its small failures openly, that increases the risk that big troubles are around the corner.
+
+- The empiricism of Scrum requires transparency, openness. We want to inspect reality in order to make sensible adaptations. We are open about our work, our progress, our learning and our problems. But we are also open for people, and working with people; acknowledging people to be people, and not resources, robots or replaceable pieces of machinery as software development -after all- is still the work of humans. We are open to collaborate across disciplines and skills. We are open to collaborate with stakeholders and the wider environment. Open in sharing feedback and learn from one another. Open for change as the organisation and the world it operates in change unpredictably, unexpectedly and constantly.
 
 - **Openness** is more about the idea that you could be wrong about something, than it is about just being open and sharing your opinion.
 
