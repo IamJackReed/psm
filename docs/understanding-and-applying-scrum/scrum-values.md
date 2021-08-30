@@ -192,7 +192,7 @@ In a Scrum context the decisions we take, the steps we take, the way we play Scr
 
 - **Openness** is the core of transparency, which is what makes Scrum work. If the members of your Scrum team (and the people who work with your team) aren’t open with each other and the wider organisation, they can’t solicit honest feedback or adapt their work accordingly. You need to be open and honest, even when you’re struggling or there’s a tough issue to address. If you aren’t, transparency will suffer.
 
-- **Scrum is designed to keep failures small and manageable, making risk management a built-in feature of the framework. If your team can’t talk about its small failures openly, that increases the risk that big troubles are around the corner.
+- Scrum is designed to keep failures small and manageable, making risk management a built-in feature of the framework. If your team can’t talk about its small failures openly, that increases the risk that big troubles are around the corner.
 
 - The empiricism of Scrum requires transparency, openness. We want to inspect reality in order to make sensible adaptations. We are open about our work, our progress, our learning and our problems. But we are also open for people, and working with people; acknowledging people to be people, and not resources, robots or replaceable pieces of machinery as software development -after all- is still the work of humans. We are open to collaborate across disciplines and skills. We are open to collaborate with stakeholders and the wider environment. Open in sharing feedback and learn from one another. Open for change as the organisation and the world it operates in change unpredictably, unexpectedly and constantly.
 
