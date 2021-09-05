@@ -660,7 +660,7 @@ Additional considerations:
 
 ---
 
-#### Someone from the HR department approaches you. They regret to inform you that the Product Owner for your team is absent starting today and will be unavailable for the rest of this Sprint. The Product Owner might be back at work somewhere during the next Sprint, but it's all unknown at this point. What should the Scrum team do?
+### Someone from the HR department approaches you. They regret to inform you that the Product Owner for your team is absent starting today and will be unavailable for the rest of this Sprint. The Product Owner might be back at work somewhere during the next Sprint, but it's all unknown at this point. What should the Scrum team do?
 >
 ☝️
 For the short term, this Sprint and the next, the Scrum Team should be able to continue and work, adhering to the product vision the Product Owner layed out, and its expressed in the order of the Product Backlog. The latest state and ordering of the Product Backlog should reflect this vision.
