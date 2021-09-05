@@ -7,7 +7,6 @@ permalink: docs/understanding-and-applying-scrum
 ---
 
 # Understanding and Applying Scrum
-
 {: .no_toc }
 
 ---
