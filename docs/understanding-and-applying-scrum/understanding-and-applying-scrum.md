@@ -13,12 +13,15 @@ permalink: docs/understanding-and-applying-scrum
 ---
 
 Scrum Guide - 2020
-{: .label .label-green } - References 'The Scrum Guide', which is the official Scrum Body of Knowledge.
+{: .label .label-green }
+References 'The Scrum Guide', which is the official Scrum Body of Knowledge.
 
 Insights
-{: .label .label-yellow } - Provides further information gathered from various sources. References listed where possible.
+{: .label .label-yellow }
+Provides further information gathered from various sources. References listed where possible.
 
 Coaching
-{: .label .label-blue } - Tips on how to help unlock a person’s potential to maximise their performance. Helping them with their thinking so that they can learn rather than have you teach them.
+{: .label .label-blue }
+Tips on how to help unlock a person’s potential to maximise their performance. Helping them with their thinking so that they can learn rather than have you teach them.
 
 ---
