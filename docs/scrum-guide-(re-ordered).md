@@ -175,7 +175,7 @@ However, the Developers are always accountable for creating a plan for the Sprin
 - Events are used in Scrum to create regularity and to minimise the need for meetings not defined in Scrum.
 - Optimally, all events are held at the same time and place to reduce complexity.
 
-### Sprint
+### Sprint
 
 - [...] Scrum requires a Scrum Master to foster an environment where [...] the Scrum Team turns a selection of the work into an Increment of value during a Sprint.
 - Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint.
@@ -393,7 +393,7 @@ However, the Developers are always accountable for creating a plan for the Sprin
 - The Sprint Goal is created during the Sprint Planning event and then added to the Sprint Backlog.
 - As the Developers work during the Sprint, they keep the Sprint Goal in mind. If the work turns out to be different than they expected, they collaborate with the Product Owner to negotiate the scope of the Sprint Backlog within the Sprint without affecting the Sprint Goal.
 
-##- Product Increment
+## Product Increment
 
 - [...] Scrum requires a Scrum Master to foster an environment where [...] the Scrum Team turns a selection of the work into an Increment of value during a Sprint.
 - The entire Scrum Team is accountable for creating a valuable, useful Increment every Sprint.
