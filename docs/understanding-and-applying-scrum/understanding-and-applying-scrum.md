@@ -9,5 +9,9 @@ permalink: docs/understanding-and-applying-scrum
 # Understanding and Applying Scrum
 {: .no_toc }
 
-CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
+Scrum Guide - 2020
+{: .label .label-green } - references 'The Scrum Guide', which is the official Scrum Body of Knowledge.
+
+Insights
+{: .label .label-yellow } - provides further information gathered from various sources. References listed where possible.
 {: .fs-6 .fw-300 }
