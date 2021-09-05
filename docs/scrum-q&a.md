@@ -4,20 +4,9 @@ title: Scrum Q&A
 nav_order: 5
 ---
 
-# Scrum Q&A
-{: .no_toc }
+#### One of the Scrum events is the Sprint Review. How does the Sprint Review enable empiricism? What would the impact be if some members of the Scrum Team were not present?
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
-####  
-One of the Scrum events is the Sprint Review. How does the Sprint Review enable empiricism? What would the impact be if some members of the Scrum Team were not present?
-
-**Answer:**
-The Sprint Review enables empiricism by providing the Scrum Team and the interested stakeholders to inspect the Increment and adapt the backlog. In addition, the Sprint Review supports transparency because everyone can see what has been produced in the Sprint.
+**Answer:** The Sprint Review enables empiricism by providing the Scrum Team and the interested stakeholders to inspect the Increment and adapt the backlog. In addition, the Sprint Review supports transparency because everyone can see what has been produced in the Sprint.
 
 If only part of the Scrum team were present, there would be less transparency. The Scrum Team members who were not present lose the opportunity to hear the feedback provided during the review directly. Directly hearing from stakeholders increases their understanding of what the stakeholders want.
 
