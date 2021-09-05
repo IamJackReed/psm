@@ -14,4 +14,7 @@ Scrum Guide - 2020
 Insights
 {: .label .label-yellow } - provides further information gathered from various sources. References listed where possible.
 
+Coaching
+{: .label .label-yellow } - tips on how to help unlock a person's potential to maximise their own performance. Helping them with their thinking so that can learn rather than have you teach them.
+
 {: .no_toc }
