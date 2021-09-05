@@ -17,9 +17,12 @@ If only part of the Scrum team were present, there would be less transparency. T
 ### How does Scrum encourage ethical behaviour, doing "the right thing", in product development?
 
 **Answer:**
+
 This is achieved by sharing knowledge at the right time with the right people, gaining feedback (inspecting) and making changes (adaptations). Communication and collaboration happen when opportunities are discovered or present themselves. Scrum teams learn and grow as they work together. This often means how they grow professionally as individuals whilst improving their processes, tools and learning how to hold themselves and others accountable. For this, Scrum teams are guided by the Scrum Values; Commitment, Courage, Focus, Respect, and Openness - which, if lived by the Scrum team, brings the pillars of transparency, inspection, and adaptation to life.
 
 The Scrum Guide says, "The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts. When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust."
+
+---
 
 ### A fellow Scrum Master asks for your input. His team members see no value in defining a Sprint goal, and he has trouble explaining its use to them. What would you tell this Scrum Master?
 
