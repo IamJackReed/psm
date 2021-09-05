@@ -11,6 +11,7 @@ nav_order: 5
 The Sprint Review enables empiricism by providing the Scrum Team and the interested stakeholders to inspect the Increment and adapt the backlog. In addition, the Sprint Review supports transparency because everyone can see what has been produced in the Sprint.
 
 If only part of the Scrum team were present, there would be less transparency. The Scrum Team members who were not present lose the opportunity to hear the feedback provided during the review directly. Directly hearing from stakeholders increases their understanding of what the stakeholders want.
+
 ---
 
 ### How does Scrum encourage ethical behaviour, doing "the right thing", in product development?
