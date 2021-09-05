@@ -16,9 +16,7 @@ If only part of the Scrum team were present, there would be less transparency. T
 
 ### How does Scrum encourage ethical behaviour, doing "the right thing", in product development?
 
-**Answer:**
-
-This is achieved by sharing knowledge at the right time with the right people, gaining feedback (inspecting) and making changes (adaptations). Communication and collaboration happen when opportunities are discovered or present themselves. Scrum teams learn and grow as they work together. This often means how they grow professionally as individuals whilst improving their processes, tools and learning how to hold themselves and others accountable. For this, Scrum teams are guided by the Scrum Values; Commitment, Courage, Focus, Respect, and Openness - which, if lived by the Scrum team, brings the pillars of transparency, inspection, and adaptation to life.
+**Answer:** This is achieved by sharing knowledge at the right time with the right people, gaining feedback (inspecting) and making changes (adaptations). Communication and collaboration happen when opportunities are discovered or present themselves. Scrum teams learn and grow as they work together. This often means how they grow professionally as individuals whilst improving their processes, tools and learning how to hold themselves and others accountable. For this, Scrum teams are guided by the Scrum Values; Commitment, Courage, Focus, Respect, and Openness - which, if lived by the Scrum team, brings the pillars of transparency, inspection, and adaptation to life.
 
 The Scrum Guide says, "The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts. When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust."
 
@@ -26,13 +24,15 @@ The Scrum Guide says, "The Scrum Team members learn and explore the values as th
 
 ### A fellow Scrum Master asks for your input. His team members see no value in defining a Sprint goal, and he has trouble explaining its use to them. What would you tell this Scrum Master?
 
-**Answer:**
-The Sprint Goal is essential. The Scrum Team commits to doing everything in their power to reach this goal. It explains why the team is doing what it does. It offers flexibility as well. When new discoveries are made during the Sprint, the team determines how to address them. They are free to do this in any way that does not endanger the sprint goal. Without a Sprint Goal, you are not doing Scrum.
+**Answer:** The Sprint Goal is essential. The Scrum Team commits to doing everything in their power to reach this goal. It explains why the team is doing what it does. It offers flexibility as well. When new discoveries are made during the Sprint, the team determines how to address them. They are free to do this in any way that does not endanger the sprint goal. Without a Sprint Goal, you are not doing Scrum.
+
+---
 
 ### What is meant by a team or organisation practising 'zombie' or 'mechanical' Scrum?
 
-**Answer:**
-Mechanical or Zombie Scrum is focused on following the rules, going through the motions, perhaps having the roles and events but without the heart of Scrum. Practising "Real" Scrum instead focuses on being value-driven, focusing on goals and impact, the Scrum core values of Courage, Focus, Commitment, Respect and Openness, continuous improvement, and delighting stakeholders and end-users. "Real" Scrum also acknowledges that Scrum is a framework that leaves room for discovering additional practices that help support these core values.
+**Answer:** Mechanical or Zombie Scrum is focused on following the rules, going through the motions, perhaps having the roles and events but without the heart of Scrum. Practising "Real" Scrum instead focuses on being value-driven, focusing on goals and impact, the Scrum core values of Courage, Focus, Commitment, Respect and Openness, continuous improvement, and delighting stakeholders and end-users. "Real" Scrum also acknowledges that Scrum is a framework that leaves room for discovering additional practices that help support these core values.
+
+---
 
 ### Every Sprint has a Sprint Review. So what is the purpose and result of this event?
 
