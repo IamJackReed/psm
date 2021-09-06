@@ -25,3 +25,5 @@ Insights
 Coaching
 {: .label .label-blue }
 >Tips on how to help unlock a person’s potential to maximise their performance. Helping them with their thinking so that they can learn rather than have you teach them.
+
+---
