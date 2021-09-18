@@ -11,5 +11,3 @@ permalink: /
 
 This guide summaries and highlights important information to help apply Scrum successfully.
 {: .fs-6 .fw-300 }
-
----
