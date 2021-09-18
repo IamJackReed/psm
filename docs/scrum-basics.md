@@ -12,3 +12,7 @@ nav_order: 2
 
 1. TOC
 {:toc}
+
+## Scrum Definition
+
+Scrum is a **lightweight** framework that helps people, teams and organisations **generate value** by creating **adaptive solutions** for **complex** problems.
