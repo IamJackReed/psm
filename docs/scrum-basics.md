@@ -46,3 +46,13 @@ Scrum is:
 3. Employs an **iterative, incremental approach** to optimise predictability and to control risk.
 4. Lightweight.
 5. Simple to understand.
+
+## Scrum values
+
+Successful use of Scrum depends on people becoming more proficient in living five values:
+
+- **Commitment**
+- **Focus**
+- **Openness**
+- **Respect**
+- **Courage**
