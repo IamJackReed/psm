@@ -33,4 +33,5 @@ Each element of the framework **serves a specific purpose that is essential** to
 While implementing only parts of Scrum is possible, the result is not Scrum. **Scrum exists only in its entirety** and functions well as a container for other techniques, methodologies, and practices.
 
 > Example 1: A Scrum Team cannot decide that the Sprint Retrospective would not be needed.
+
 > Example 2: Developers cannot choose that to skip the Daily Scrum because they might be busy with writing code or developing the product.
