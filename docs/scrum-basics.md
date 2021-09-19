@@ -28,4 +28,9 @@ The Scrum framework is **purposefully incomplete**, only defining the parts requ
 
 Various processes, techniques and methods can be employed within the framework. Scrum wraps around existing practices or renders them unnecessary. Scrum makes visible the relative efficacy of current management, environment, and work techniques, so that **improvements can be made**.
 
-Each element of the framework **serves a specific purpose that is essential** to the overall value and results realised with Scrum. 
+Each element of the framework **serves a specific purpose that is essential** to the overall value and results realised with Scrum.
+
+While implementing only parts of Scrum is possible, the result is not Scrum. **Scrum exists only in its entirety** and functions well as a container for other techniques, methodologies, and practices.
+
+> Example 1: A Scrum Team cannot decide that the Sprint Retrospective would not be needed.
+> Example 2: Developers cannot choose that to skip the Daily Scrum because they might be busy with writing code or developing the product.
