@@ -11,7 +11,7 @@ These slides help summarise and highlight important information to help apply Sc
 {: .fs-6 .fw-300 }
 
 
-[Getting Scrum Started](https://iamjackreed.github.io/deck){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Getting Scrum Started](https://iamjackreed.github.io/deck/examples/starting){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 [Teams](https://iamjackreed.github.io/deck){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
