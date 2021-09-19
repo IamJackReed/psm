@@ -7,8 +7,6 @@ nav_order: 2
 # Scrum Basics
 {: .no_toc }
 
-[Starting Scrum - Slides](https://iamjackreed.github.io/deck){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
 ## Table of contents
 {: .no_toc .text-delta }
 
