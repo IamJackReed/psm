@@ -13,7 +13,7 @@ nav_order: 2
 1. TOC
 {:toc}
 
-## Scrum Definition
+## Scrum Definition & Theory
 
 Scrum is a **lightweight** framework that helps people, teams and organisations **generate value** by creating **adaptive solutions** for **complex** problems.
 
@@ -35,3 +35,14 @@ While implementing only parts of Scrum is possible, the result is not Scrum. **S
 > Example 1: A Scrum Team cannot decide that the Sprint Retrospective would not be needed.
 
 > Example 2: Developers cannot choose that to skip the Daily Scrum because they might be busy with writing code or developing the product.
+
+Scrum is founded on:
+**Empiricism and lean thinking**. Empiricism asserts that knowledge comes from **experience** and **making decisions based on what is observed**. Lean thinking **reduces waste** and **focuses on the essentials**.
+
+Scrum is:
+
+1. **Not a process, technique, or definitive method**.
+2. **A framework** within which can employ various processes and techniques.
+3. Employs an **iterative, incremental approach** to optimise predictability and to control risk.
+4. Lightweight.
+5. Simple to understand.
