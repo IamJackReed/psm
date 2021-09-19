@@ -7,6 +7,8 @@ nav_order: 2
 # Scrum Basics
 {: .no_toc }
 
+[Start Scrum Slides](https://iamjackreed.github.io/deck/examples/valuess){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -48,8 +50,6 @@ Scrum is:
 5. Simple to understand.
 
 ## Scrum values
-
-[Start Scrum Value Slides](https://iamjackreed.github.io/deck/examples/valuess){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 Successful use of Scrum depends on people becoming more proficient in living five values:
 
