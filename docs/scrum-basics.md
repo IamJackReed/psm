@@ -36,6 +36,8 @@ While implementing only parts of Scrum is possible, the result is not Scrum. **S
 
 > Example 2: Developers cannot choose that to skip the Daily Scrum because they might be busy with writing code or developing the product.
 
+Scrum proves especially effective in an iterative and incremental knowledge transfers.
+
 Scrum is founded on:
 **Empiricism and lean thinking**. Empiricism asserts that knowledge comes from **experience** and **making decisions based on what is observed**. Lean thinking **reduces waste** and **focuses on the essentials**.
 
