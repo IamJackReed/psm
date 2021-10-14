@@ -49,13 +49,6 @@ The Scrum Master could facilitate the Sprint Planning, working with the Product 
 
 ---
 
-### A new Scrum Team wonders whether testing should be done within every Sprint. Describe the benefits of including testing within the Sprint's development activities. What does Scrum say about this?
->
-☝️
-Product Increment creates transparency for the inspection and adaptation. All not tested and validated work reduces transparency and poses a risk resulting from increasing the unfinished work, and then this inspected Increment is not really potentially usable or releasable. In addition, when it comes to its release, there's a risk of having a lot to do to fix bugs. So adding testing activities, perhaps including in the Definition of Done, provides more confidence that the Increment will be in a done state and can be adequately inspected.
-
----
-
 ### During a retrospective, one of the more junior developers confesses he has a hard time getting his opinion heard. When discussing the work, the more experienced developers often don't let him finish his sentences or disregard what he has to say. What Scrum Values are touched upon here?
 >
 ☝️
@@ -74,15 +67,6 @@ Feature teams work cross-functionally on an end-user valuable part of the Produc
 Component teams work on layers of the Product. For example, the database team works on the database containing the website's data, the frontend team develops the User Interface part of the website.
 >
 From a Scrum perspective, Cross-functional teams are preferred, as they can deliver front-to-back working products within their team. Delivering valuable working products almost always involves several layers/components to deliver one feature. It is stated in the Scrum Guide, "Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value for each Sprint. They are also self-managing, meaning they internally decide who does what, when, and how."
-
----
-
-### One of the Scrum events is the Sprint Review. How does the Sprint Review enable empiricism? What would the impact be if some members of the Scrum Team were not present?
->
-☝️
-The Sprint Review enables empiricism and provides an opportunity for the Scrum Team and the interested stakeholders to inspect the Increment and adapt the backlog. In addition, the Sprint Review supports transparency because everyone can see what has been produced in the Sprint.
->
-If only part of the Scrum team was present, there would be less transparency. The Scrum Team members who were not present lose the opportunity to directly hear the feedback provided during the review. Directly hearing from stakeholders increases their understanding of what the stakeholders want.
 
 ---
 
@@ -216,15 +200,6 @@ More importantly, the Scrum Master joins the Sprint Retrospective as a Scrum Tea
 
 ---
 
-### One of the Scrum events is the Sprint Review. How does the Sprint Review enable empiricism? What would the impact be if some members of the Scrum Team were not present?
->
-☝️
-The Sprint Review enables empiricism by providing an opportunity for the Scrum Team and the interested stakeholders to inspect the Increment and adapt the backlog. The Sprint Review supports transparency because everyone can see what has been produced in the Sprint.
->
-If only part of the Scrum team was present, there would be less transparency. The Scrum Team members who were not present lose the opportunity to directly hear the feedback provided during the review. Directly hearing from stakeholders increases their understanding of what the stakeholders want.
-
----
-
 ### In what way does Scrum encourage ethical behaviour, doing "the right thing", in product development?
 >
 ☝️
@@ -256,103 +231,6 @@ It's the Scrum Team's event, which presents the results of their work to key sta
 
 ---
 
-### On a project with one Product Backlog, your management has given you six Scrum Teams. As the Scrum Master - What criteria should you use when you distribute the Product Backlog items among the Scrum Teams?
->
-☝️
-According to the Scrum Guide, a Scrum requires a Scrum Master to foster an environment where the Scrum Team turns a selection of the work into an Increment of value during a Sprint.
->
-Hence, the Scrum Master does not distribute work from Product Backlog, the Scrum Teams are self-managing, and they are empowered and encouraged to select their own work items while collaborating with the Product Owner. Therefore, all Scrum Teams working on the same Product should share the same Product Goal, Product Backlog, and Product Owner.
-The Scrum Master could facilitate the Sprint Planning, working with the Product Owner, minimising dependencies between teams, and helping the Scrum Teams to inspect and adapt their workload based on their past performance, their upcoming capacity, and their Definition of Done, and by doing so, they become more confident on what they can forecast for the Sprint. Then, using Sprint Reviews to inspect the combined, integrated Increment the Scrum teams produce and adapt accordingly.
-
----
-
-### A new Scrum Team wonders whether testing should be done within every Sprint. Describe the benefits of including testing within the Sprint's development activities. What does Scrum say about this?
->
-☝️
-Product Increment creates transparency for the inspection and adaptation. All not tested and validated work reduces transparency and poses a risk as a result of increasing the undone work, and then this inspected Increment is not really potentially usable or releasable. When it comes to its release, there's a risk of having a lot to do to fix bugs. So adding testing activities, perhaps including in the Definition of Done, provides more confidence that the Increment will be in a done state and can be properly inspected.
-
----
-
-### During a retrospective, one of the more junior developers confesses he has a hard time getting his opinion heard. When discussing the work to be done, the more experienced developers often don't let him finish his sentences or disregard what he has to say. What Scrum Values are touched upon here?
->
-☝️
-Mainly: Courage, Respect, Openness.
-- Courage because the junior developer shows the courage to address a sensitive issue.
-- Respect, because in Scrum we respect everyone involved.
-- Openness because in Scrum, we're open to everyone's input, experience, and background.
-No matter if you're junior, senior, a customer, or the CEO.
-
----
-
-### Describe the difference between a feature and component teams, and how they hold up when viewed from the perspective of the Scrum Guide.
->
-☝️
-Feature teams work cross-functionally on an end-user valuable part of the Product. For example, the search function of a website or a list of images.
-Component teams work on layers of the Product. For example, the database team works on the database containing the website's data, the frontend team develops the User Interface part of the website.
->
-From a Scrum perspective. Cross-functional teams are preferred, as they can deliver front-to-back working products within their team. Delivering valuable working products, almost always involves several layers/components to deliver one feature. It is stated in the Scrum Guide "Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint. They are also self-managing, meaning they internally decide who does what, when, and how."
-
----
-
-### Prior to the 2011 version of Scrum, the Development Team would "commit" to the Product Owner how much Product Backlog it would do during the upcoming Sprint during the Sprint Planning meeting. The word "commit" was replaced in 2011 by "forecast". In your experience: What will be the positive results of this change? What will be the negative consequences of this change? Why was this change made?
->
-☝️
-Forecast, to me, suggests weather forecasting, so we are trying our best guest given the circumstances and what is known, so we are trying to predict what will happen, but that is what it is, just a prediction, and these can vary. As a positive result, I understand that when forecasting we might dedicate more to discussing what we know, what we can do, and by doing so, we might suffer from a less stressful word for everyone and try our best.
->
-For the negative consequences, it can be that some people may be too relaxed and take it too lightly, so it is important that the Scrum Master teaches Scrum values and principles and what are their meanings properly to everyone working with Scrum.
->
-This change was made because the word commitment used to be taken as a guarantee, but that is impossible in the complex domain and complex type of work like software development, and in many situations, that harms a team from some type of command-and-control approach, where punishments might happen like having to work overtime because of the "commitment".
-
----
-
-### The Daily Scrum is an event that happens every day. What would be the consequences if it were held every third day?
->
-☝️
-When the Daily Scrum does not happen every day, it might endanger transparency, since the opportunities to inspect and adapt the Sprint Backlog is reduced or lowered. It can lead to slow making decisions on what to do next, impediments are raised and resolved more slowly, communication between Developers could suffer, and unnecessary meetings might be created that might hinder their focus and it could be prevented by having a Daily every day.
-
----
-
-### What artifacts are part of Scrum, and during which Scrum Events are they likely to be the subject of inspection?
->
-☝️
-The Sprint Backlog is inspected during Sprint Planning, Daily Scrum, and Sprint Review.
-- The Product Backlog is inspected during Sprint Planning and Sprint Review.
-- The Product Increment is inspected during Sprint Planning and Sprint Review.
->
-Each Scrum artifact now has a commitment, introduced in the Scrum Guide 2020 version as:
-- For the Product Backlog, it is the Product Goal.
-- For the Sprint Backlog, it is the Sprint Goal.
-- For the Increment, it is the Definition of Done.
->
-Apart from that: all artifacts may be inspected at any time, and be the subject of conversation at any time. Scrum prescribes frequent inspection, as long as it doesn't hinder the work being done. Backlog Management and Backlog Refinement inspect the Product Backlog but is not a Scrum event in the strict sense.
-
----
-
-### The developers in your Scrum Team raise an impediment. The work planned for the upcoming Sprint involves certain knowledge and expertise they do not possess within the team. How do you handle this impediment?
->
-☝️
-An impediment is something the team might not be able to resolve in case they don't possess the ability or knowledge for it. The Scrum Master serves the Scrum Team in several ways, and coaching the team members in self-management and cross-functionality is an essential part of its accountabilities.
->
-However, when an impediment cannot be addressed by the team, the Scrum Master must act and help remove the impediments. The Scrum Master might ask if the expertise really needed? A conversation with the Product Owner could help, finding that another approach / changing scope is also viable. Perhaps a third-party can supply the code or service needed.
->
-If the expertise really is needed, start by asking the team how they as a cross-functional team could gain the knowledge needed. Maybe time to learn, do research, training, or building a prototype could be enough. During sprint planning, outside experts may be consulted by the team. If none of this resolves the impediment, the Scrum Master can help the team getting the needed expertise from inside or outside the organisation available to them.
-
----
-
-### How does the Cone of Uncertainty influence the work being done by a Scrum Team during a product's development lifetime?
->
-☝️
-At the beginning of the Product's lifetime, many unknowns may exist. The team will work on removing these unknowns. For example by doing research, prototyping, testing with users. When important unknowns are uncovered, work can gradually include more functional stories adding valuable features. At the end of a product's development lifetime, work, in general, may decrease. The Unrealised Value is low, and the Current Value is high. Work will become more operational in nature. The Evidence-Based Management Guide can support and enhance how a product can deliver value to its customers by exploring the Key-Value Areas.
-
----
-
-### In what ways does the Scrum Master attend the Sprint Retrospective?
->
-☝️
-Oftentimes the Scrum Master may facilitate the Sprint Retrospective based on Scrum Team request. More importantly, the Scrum Master joins the Sprint Retrospective as a Scrum Team member, inspecting people, processes, and tools, while helping the Scrum Team identifies and improve on the most helpful changes to improve its effectiveness.
-
----
-
 ### The Product Owner is a part of the Scrum Team. How can you, as the Scrum Master, determine if the Product Owner is interacting with the Developers of the Scrum Team enough?
 >
 ☝️
@@ -361,15 +239,6 @@ First and foremost, it is important to define what "enough" means for yourself a
 Observe if the Product Owner and the Developers collaborate throughout the Sprint, not only during Planning, Review, and Retrospectives in order to discuss and decide on the work's being performed, addressing issues, and making decisions accordingly. In case that is not the case, the Scrum Master teaches and coaches the Product Owner on improving her interactions with the Developers, discussing the impact of these low interactions can cause and harm.
 >
 Use the Sprint Reviews to check if the Product Owner can inspect the result of the Sprint produced by the Scrum Team, in case there are surprises, it might be an opportunity to improve their interactions in the next Sprint.
-
----
-
-### One of the Scrum events is the Sprint Review. How does the Sprint Review enable empiricism? What would the impact be if some members of the Scrum Team were not present?
->
-☝️
-The Sprint Review enables empiricism by providing an opportunity for the Scrum Team and the interested stakeholders to inspect the Increment and adapt the backlog. The Sprint Review supports transparency because everyone can see what has been produced in the Sprint.
->
-If only part of the Scrum team was present, there would be less transparency. The Scrum Team members who were not present lose the opportunity to directly hear feedback provided during the Sprint review. Directly hearing from stakeholders increases their understanding of what the stakeholders want.
 
 ---
 
@@ -401,118 +270,6 @@ Mechanical or Zombie Scrum is focused on following the rules, going through the 
 ☝️
 During the Sprint Review, the result of the Sprint is inspected.
 It's the Scrum Team's event, which presents the results of their work to key stakeholders, and progress toward the Product Goal is discussed. The Scrum Team might provide additional information about what was delivered and the challenges faced. Stakeholders at the event inspect the Product by using it and providing feedback. If the work is done and accepted, it will be added to the Product Increment. Work not accepted is returned to the Product Backlog. Inspecting the Product will give new insight into the direction the Product is taking. Conversations about what is needed next will take place. The Product Owner can use this information to update the Product Backlog. The result is heightened transparency for all involved (Scrum Team and stakeholders). Work has been inspected, either added to the Product Backlog or needing more work, and an updated Product Backlog based on the latest state of the Product.
-
----
-
-### On a project with one Product Backlog, your management has given you six Scrum Teams. As the Scrum Master - What criteria should you use when you distribute the Product Backlog items among the Scrum Teams?
->
-☝️
-According to the Scrum Guide, a Scrum requires a Scrum Master to foster an environment where the Scrum Team turns a selection of the work into an Increment of value during a Sprint.
->
-Hence, the Scrum Master does not distribute work from Product Backlog, the Scrum Teams are self-managing, and they are empowered and encouraged to select their own work items while collaborating with the Product Owner. Therefore, all Scrum Teams working on the same Product should share the same Product Goal, Product Backlog, and Product Owner.
->
-The Scrum Master could facilitate the Sprint Planning, working with the Product Owner, minimising dependencies between teams, and helping the Scrum Teams to inspect and adapt their workload based on their past performance, their upcoming capacity, and their Definition of Done, and by doing so, they become more confident on what they can forecast for the Sprint. Then, using Sprint Reviews to inspect the combined, integrated Increment the Scrum teams produce and adapt accordingly.
-
----
-
-### A new Scrum Team wonders whether testing should be done within every Sprint. Describe the benefits of including testing within the Sprint's development activities. What does Scrum say about this?
->
-☝️
-Product Increment creates transparency for the inspection and adaptation. All not tested and validated work reduces transparency and poses a risk as a result of increasing the undone work, and then this inspected Increment is not really potentially usable or releasable. When it comes to its release, there's a risk of having a lot to do to fix bugs. So adding testing activities, perhaps including in the Definition of Done, provides more confidence that the Increment will be in a done state and can be properly inspected.
-
----
-
-### During a retrospective, one of the more junior developers confesses he has a hard time getting his opinion heard. When discussing the work to be done, the more experienced developers often don't let him finish his sentences or disregard what he has to say. What Scrum Values are touched upon here?
->
-☝️
-Mainly: Courage, Respect, Openness.
-C- ourage because the junior developer shows the courage to address a sensitive issue.
-- Respect, because in Scrum we respect everyone involved.
-- Openness because in Scrum, we're open to everyone's input, experience, and background.
-No matter if you're junior, senior, a customer, or the CEO.
-
----
-
-### Describe the difference between a feature and component teams, and how they hold up when viewed from the perspective of the Scrum Guide.
->
-☝️
-Feature teams work cross-functionally on an end-user valuable part of the Product. For example, the search function of a website or a list of images.
-Component teams work on layers of the Product. For example, the database team works on the database containing the website's data, the frontend team develops the User Interface part of the website.
->
-From a Scrum perspective. Cross-functional teams are preferred, as they can deliver front-to-back working products within their team. Delivering valuable working products, almost always involves several layers/components to deliver one feature. It is stated in the Scrum Guide "Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint. They are also self-managing, meaning they internally decide who does what, when, and how."
-
----
-
-### Prior to the 2011 version of Scrum, the Development Team would "commit" to the Product Owner how much Product Backlog it would do during the upcoming Sprint during the Sprint Planning meeting. The word "commit" was replaced in 2011 by "forecast". In your experience: What will be the positive results of this change? What will be the negative consequences of this change? Why was this change made?
->
-☝️
-Forecast, to me, suggests weather forecasting, so we are trying our best guest given the circumstances and what is known, so we are trying to predict what will happen, but that is what it is, just a prediction, and these can vary. As a positive result, I understand that when forecasting we might dedicate more to discussing what we know, what we can do, and by doing so, we might suffer from a less stressful word for everyone and try our best.
->
-For the negative consequences, it can be that some people may be too relaxed and take it too lightly, so it is important that the Scrum Master teaches Scrum values and principles and what are their meanings properly to everyone working with Scrum.
->
-This change was made because the word commitment used to be taken as a guarantee, but that is impossible in the complex domain and complex type of work like software development, and in many situations, that harms a team from some type of command-and-control approach, where punishments might happen like having to work overtime because of the "commitment".
-
----
-
-### The Daily Scrum is an event that happens every day. What would be the consequences if it were held every third day?
->
-☝️
-When the Daily Scrum does not happen every day, it might endanger transparency, since the opportunities to inspect and adapt the Sprint Backlog it is reduced or lowered. It can lead to slow making decisions on what to do next, impediments are raised and resolved more slowly, communication between Developers could suffer, and unnecessary meetings might be created that might hinders their focus and it could be prevented by having a Daily every day.
-
----
-
-###
-What artifacts are part of Scrum, and during which Scrum Events are they likely to be the subject of inspection?
->
-☝️
-The Sprint Backlog is inspected during Sprint Planning, Daily Scrum, and Sprint Review.
-- The Product Backlog is inspected during Sprint Planning and Sprint Review.
-- The Product Increment is inspected during Sprint Planning and Sprint Review.
->
-Each Scrum artifact now posses a commitment, introduced in the Scrum Guide 2020 version as:
-- For the Product Backlog, it is the Product Goal.
-- For the Sprint Backlog, it is the Sprint Goal.
-- For the Increment, it is the Definition of Done.
->
-Apart from that: all artifacts may be inspected at any time, and be the subject of conversation at any time. Scrum prescribes frequent inspection, as long as it doesn't hinder the work being done.
-Backlog Management and Backlog Refinement inspect the Product Backlog but is not a Scrum event in the strict sense.
-
----
-
-### The developers in your Scrum Team raise an impediment. The work planned for the upcoming Sprint involves certain knowledge and expertise they do not possess within the team. How do you handle this impediment?
->
-☝️
-An impediment is something the team might not be able to resolve in case they don't possess the ability or knowledge for it. The Scrum Master serves the Scrum Team in several ways, and coaching the team members in self-management and cross-functionality is an essential part of its accountabilities.
->
-However, when an impediment cannot be addressed by the team, the Scrum Master must act and help remove the impediments.
-The Scrum Master might ask if the expertise really needed? A conversation with the Product Owner could help, finding that another approach / changing scope is also viable. Perhaps a third-party can supply the code or service needed.
->
-If the expertise really is needed, start by asking the team how they as a cross-functional team could gain the knowledge needed. Maybe time to learn, do research, training, or building a prototype could be enough. During sprint planning, outside experts may be consulted by the team. If none of this resolves the impediment, the Scrum Master can help the team getting the needed expertise from inside or outside the organisation available to them.
-
----
-
-### How does the Cone of Uncertainty influence the work being done by a Scrum Team during a product's development lifetime?
->
-☝️
-At the beginning of the Product's lifetime, many unknowns may exist. The team will work on removing these unknowns. For example by doing research, prototyping, testing with users. When important unknowns are uncovered, work can gradually include more functional stories adding valuable features. At the end of a product's development lifetime, work, in general, may decrease. The Unrealised Value is low, and the Current Value is high. Work will become more operational in nature. The Evidence-Based Management Guide can support and enhance how a product can deliver value to its customers by exploring the Key-Value Areas.
-
----
-
-### In what ways does the Scrum Master attend the Sprint Retrospective?
->
-☝️
-Oftentimes the Scrum Master may facilitate the Sprint Retrospective based on Scrum Team request. More importantly, the Scrum Master joins the Sprint Retrospective as a Scrum Team member, inspecting people, processes, and tools, while helping the Scrum Team identifies and improve on the most helpful changes to improve its effectiveness.
-
----
-
-### The Product Owner is a part of the Scrum Team. How can you, as the Scrum Master, determine if the Product Owner is interacting with the Developers of the Scrum Team enough?
->
-☝️
-First and foremost, it is important to define what "enough" means for yourself and for your Scrum Team. Engage in constant conversation with the team members and Product Owner individually, as well as in a group to gauge.
->
-Observe if the Product Owner and the Developers collaborate throughout the Sprint, not only during Planning, Review, and Retrospectives in order to discuss and decide on the work's being performed, addressing issues, and making decisions accordingly. In case that is not the case, the Scrum Master teaches and coaches the Product Owner on improving her interactions with the Developers, discussing the impact of these low interactions can cause and harm.
->
-Use the Sprint Reviews to check if the Product Owner can inspect the result of the Sprint produced by the Scrum Team, in case there are surprises, it might be an opportunity to improve their interactions in the next Sprint.
 
 ---
 
