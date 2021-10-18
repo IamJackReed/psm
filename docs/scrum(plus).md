@@ -526,6 +526,27 @@ However, the Developers are always accountable for creating a plan for the Sprin
 - [Artifact commitment:] For the Increment it is the Definition of Done.
 - Although the Sprint Goal is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it.
 
+Commitment is about **dedication** and applies to the actions, the effort, not the final result. Scrum Teams should:
+- Commit to the team.
+- Commit to quality.
+- Commit to collaborate.
+- Commit to learn.
+- Commit to do the best we can, every day again.
+- Commit to the Sprint Goal.
+- Commit to be professional.
+- Commit to self-organise.
+- Commit to excellence.
+- Commit to the agile principles.
+- Commit to create working software.
+- Commit to look for improvements.
+- Commit to the Definition of Done.
+- Commit to the Scrum framework.
+- Commit to focus on Value.
+- Commit to finish work.
+- Commit to inspect & adapt.
+- Commit to transparency.
+- Commit to challenge the status-quo.
+
 ### Communication
 
 - In general, we have found that smaller teams communicate better and are more productive.
