@@ -574,6 +574,20 @@ Commitment is about **dedication** and applies to the actions, the effort, not t
 - The purpose of the Sprint Retrospective is to plan ways to increase quality and effectiveness.
 - The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done.
 
+### Courage
+
+- The Scrum Team members should have the courage to do the right things and work on tough problems. Notes:
+- Courage in not building stuff that nobody wants.
+- Courage in admitting requirements will never be perfect and that no plan can capture reality and complexity.
+- Courage to consider change as a source of inspiration and innovation.
+- Courage to not deliver undone software.
+- Courage in sharing all possible information (transparency) that might help the team and the organisation.
+- Courage in admitting that nobody is perfect. Courage to change direction.
+- Courage to share risks and benefits.
+- Courage to promote Scrum and empiricism to deal with complexity.
+- Courage to let go of the feint certainties of the past.
+- Courage to support the Scrum Values.
+
 ### Cross-Functionality
 
 - Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint.
