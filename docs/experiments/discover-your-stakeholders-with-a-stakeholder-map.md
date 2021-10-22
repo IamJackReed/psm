@@ -8,7 +8,7 @@ nav_order: 5
 # Discover Your Stakeholders With A Stakeholder Map
 {: .no_toc }
 
-An experiment to identify your stakeholders and to learn how to involve them and create valuable products
+An experiment to identify your stakeholders and to learn how to involve them and create valuable products.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
