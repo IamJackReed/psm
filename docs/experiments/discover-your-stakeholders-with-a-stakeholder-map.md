@@ -73,9 +73,9 @@ The distribution of stakeholders across the map is a snapshot. It's entirely lik
 
 - In general, Scrum Teams should invest most of their time and effort in the people on the right of the Map. They are the actual stakeholders.
 
+![](assets/scrum-theory-a8b2f700.png)
 
-
-
+![](assets/images/discover-your-stakeholders-with-a-stakeholder-map.png)
 
 
 
