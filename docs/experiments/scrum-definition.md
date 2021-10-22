@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Scrum Definition
-parent: Understanding and Applying Scrum
-nav_order: 3
+parent: Experiments
+nav_order: 5
 ---
 
 # Scrum Definition

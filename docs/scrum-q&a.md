@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Scrum Q&A
-nav_order: 5
+nav_order: 10
 ---
 
 ### One of the Scrum events is the Sprint Review. How does the Sprint Review enable empiricism? What would the impact be if some members of the Scrum Team were not present?

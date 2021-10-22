@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Presentations
-nav_order: 9
+title: Workshops
+nav_order: 8
 ---
 
 # Presentations

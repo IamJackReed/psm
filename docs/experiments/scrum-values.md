@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Scrum Values
-parent: Understanding and Applying Scrum
-nav_order: 5
+parent: Experiments
+nav_order: 7
 ---
 
 # Scrum Values

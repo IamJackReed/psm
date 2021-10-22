@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Scrum Theory
-parent: Understanding and Applying Scrum
-nav_order: 4
+parent: Experiments
+nav_order: 6
 ---
 # Scrum Theory
 {: .no_toc }
