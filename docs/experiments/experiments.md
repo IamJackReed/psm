@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Understanding and Applying Scrum
-nav_order: 2
+title: Experiments
+nav_order: 3
 has_children: true
-permalink: docs/understanding-and-applying-scrum
+permalink: docs/experiments
 ---
 
-# Understanding and Applying Scrum
+# Experiments
 {: .no_toc }
 
  Each Professional Scrum Competency contains a number of focus areas. Labels are used throughput to help identify references, insights and coaching tips.
