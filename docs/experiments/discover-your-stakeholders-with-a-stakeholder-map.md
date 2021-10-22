@@ -73,24 +73,8 @@ The distribution of stakeholders across the map is a snapshot. It's entirely lik
 
 - In general, Scrum Teams should invest most of their time and effort in the people on the right of the Map. They are the actual stakeholders.
 
-![](assets/scrum-theory-a8b2f700.png)
+![](/assets/images/stakeholder_map.png)
 
-![](assets/images/discover-your-stakeholders-with-a-stakeholder-map.png)
+## Miro Template
 
-
-
-
-
-
-
-
-
-- ❌ **Not a process, technique, or definitive method**
-- ✅  **A framework** within which can employ various processes and techniques.
-- ✅  Employs an **iterative, incremental approach to optimise predictability and to control risk.**
-- ✅  Lightweight.
-- ✅  Simple to understand.
-
----
-
-[Scrum Theory](https://iamjackreed.github.io/psm/docs/understanding-and-applying-scrum/scrum-theory/){: .btn .btn-blue }
+https://miro.com/app/board/o9J_lo4fAZQ=/?invite_link_id=340435553449
