@@ -8,7 +8,7 @@ nav_order: 10
 # ABCDEF
 {: .no_toc }
 
-The approach provides a model for challenging a client’s beliefs, providing a structured framework for the coaching conversation.
+This approach provides a model for challenging a client’s beliefs, providing a structured framework for the coaching conversation.
 {: .fs-6 .fw-300 }
 
 ## Table of contents

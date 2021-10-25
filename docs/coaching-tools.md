@@ -9,5 +9,5 @@ permalink: docs/coaching-tools
 # Coaching Tools
 {: .no_toc }
 
-Coaching is more than the application of specific tools, and rather is fundamentally based on a strong coaching relationship, bringing all of yourself into the relationship.
+Coaching is more than the application of specific tools, rather something that is fundamentally based on a strong coaching relationship, bringing all of yourself into the relationship.
 {: .fs-6 .fw-300 }
