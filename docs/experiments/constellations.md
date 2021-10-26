@@ -21,7 +21,7 @@ The approach can raise the awareness of the (often invisible) systems at play wh
 
 ##  What is the tool?
 
-TThe approach is to focus on the “big picture” view of the system, helping your client step back and see things more clearly by looking at the whole system. The focus is on the connections, relationships and interactions without getting caught up in the detail and story.
+The approach is to focus on the “big picture” view of the system, helping your client step back and see things more clearly by looking at the whole system. The focus is on the connections, relationships and interactions without getting caught up in the detail and story.
 
 ##  How do you use it?
 
