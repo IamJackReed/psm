@@ -39,3 +39,5 @@ Fortunately, using the Scrum framework purposefully helps teams leverage both ty
 Teams affected tend to limit themselves to single-loop learning and can’t benefit from double- loop learning because their existing beliefs about management, products, how to manage people, and how to control risk remain unchallenged.
 
 If your Sprint Retrospectives remain shallow and only engage your team in single-loop learning, your situation won't improve. We've found it helpful to frequently reflect with teams on how they learn. That may sound super abstract, but you'll discover one way to do this with this experiment. This kind of learning makes it more likely for teams to engage in double-loop learning (or even beyond).
+
+Credit: https://www.zombiescrum.org/
