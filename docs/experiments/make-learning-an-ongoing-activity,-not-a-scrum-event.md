@@ -22,7 +22,7 @@ A collection of powerful questions to help your team reflect, learn and improve,
 
 ##  Purpose Of This Experiment
 
-collection of powerful questions to help your team reflect, learn and improve, continuously. We also described specific opportunities for when & how to use them. Not as facilitated retrospective formats, but as learning moments that can take place anywhere, anytime during the Sprint.
+This experiment is based on a collection of powerful questions to help your team reflect, learn and improve, continuously. We also described specific opportunities for when & how to use them. Not as facilitated retrospective formats, but as learning moments that can take place anywhere, anytime during the Sprint.
 
 ## Improve How You Learn As A Team
 
