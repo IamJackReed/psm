@@ -39,3 +39,5 @@ To try this experiment, do the following:
 - For another perspective, you can use different colours for everyone on your team. This allows you to identify who is most often in need of permission.
 - If you want to focus on the amount of organisational bureaucracy, don’t add permission tokens for requests from direct stakeholders such as customers, users, or people who otherwise invest significant money or time in your product.
 - The experiment “Break the Rules!" that we offer in the book is great to test where asking for permission matters, and where it just gets in the way of doing the right thing.
+
+Credit: https://www.zombiescrum.org/

@@ -62,3 +62,5 @@ There are many strategies to improve cross-functionality in your team.
 - When Scrum Teams have been affected by Zombie Scrum for a long time, they may have come to believe that nothing ever changes. You may even face understandable cynicism. If this is the case, start with the smallest possible improvements to show people that change is possible and worth the time spent making it happen.
 
 - When the skills of team members are narrowly specialised, they may struggle to see how broadening their skills will benefit the team. They may also fear losing their uniquely visible contribution to the team. Make an effort to celebrate the successes of the team to emphasise the collective outcomes over individual contributions.
+
+Credit: https://www.zombiescrum.org/

@@ -79,3 +79,5 @@ The distribution of stakeholders across the map is a snapshot. It's entirely lik
 ## Miro Template
 
 [https://miro.com/app/board/o9J_lo4fAZQ=/?invite_link_id=340435553449](https://miro.com/app/board/o9J_lo4fAZQ=/?invite_link_id=340435553449)
+
+Credit: https://www.zombiescrum.org/

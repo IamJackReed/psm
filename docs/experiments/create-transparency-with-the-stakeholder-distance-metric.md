@@ -48,3 +48,5 @@ Teams recovering from Zombie Scrum will slowly lose their fear of stakeholders. 
 - Metrics don’t have meaning in themselves, but they are given meaning through context and conversation. Make sure that you have this conversation with your entire team. You should never use metrics to judge, compare, or evaluate teams that you yourself do not belong to.
 
 - Shortening the distance to the stakeholder might require you to break an existing, highly elaborate product development process. Depending on your position in the system, disrupting that process might not be possible. Nevertheless, see if you can raise awareness for the problem or circumvent the issue by still talking to users and then getting involved in discussions about requirements as early as possible.
+
+Credit: https://www.zombiescrum.org/
