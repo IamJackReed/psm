@@ -64,7 +64,7 @@ Single-loop learning focuses on solving a problem within an existing system that
 13. From whom did you recently earn recognition and appreciation? In which situation?
 14. What is some thing we can automate that would make our lives as a team much easier?
 15. What is an organisation or team we should visit because we can probably learn a ton from them?
-16.What should be the legacy of our team? How do you want this team to be remembered?
+16. What should be the legacy of our team? How do you want this team to be remembered?
 17. What would constitute a 'perfect' day for you?
 18. What does being a good colleague mean to you?
 19. With whom in our organisation should we have more empathy? Why?
