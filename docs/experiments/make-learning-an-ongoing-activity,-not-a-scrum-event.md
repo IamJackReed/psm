@@ -46,7 +46,7 @@ In order for people to learn, they need to work in a climate that encourages it.
 
 The great thing about questions is that you can ask them at any moment during a Sprint. You can even ask them during lunch or Friday drinks. Here are some powerful questions you can try with your team:
 
-**Questions To Improve Single-Loop Learning**
+### Questions To Improve Single-Loop Learning
 Single-loop learning focuses on solving a problem within an existing system that is defined by sets of beliefs, structures, roles, procedures, and norms. As long as you don't stick to single-loop learning only, it's still very useful. The questions below might offer you some inspiration to learn what's possible within the existing system of your team and organisation.
 
 1. What Scrum event do you consider more important, the Sprint Review or the Sprint Retrospective? Why?
