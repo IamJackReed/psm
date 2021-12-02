@@ -946,6 +946,26 @@ The Scrum Team members should **focus on the work of the Sprint and the goals of
 - However, an Increment may be delivered to stakeholders prior to the end of the Sprint.
 - The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment.
 
+### Testing
+
+Software testing is an **investigation conducted** to provide stakeholders with information about the **quality of the software product or service under test**. Test techniques include the process of executing programs or applications **with the intent of finding software bugs (errors or other defects) and verifying that the software products are fit for use**.
+
+Software testing involves execution of a software component or system component to evaluate one or more properties of interest. In general, these properties indicate the extent to which the component or system under test:
+
+1. Meets the requirements that guided its design and development.
+2. Responds correctly to all kinds of inputs.
+3. Performs its functions within an acceptable time.
+4. Is sufficiently usable.
+5. Can be installed and run in its intended evironment, and
+6. Achieves the general result its stakeholders desire.
+
+#### Unit Testing
+
+**A Unit Test** is a way of testing a unit (**the smallest piece of code**) that can be logically isolated in a system. Also known as component testing, is a level a software testing where individual units/components of software are tested. The purpose is to validate that each unit of the software performs as designed.
+
+![](experiments/assets/unit_testing.png)
+
+
 ### Time-boxes, Time frames
 
 - The Scrum Master serves the Scrum Team in several ways, including ensuring that all Scrum events take place and are positive, productive, and kept within the time-box.
