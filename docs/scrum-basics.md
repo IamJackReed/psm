@@ -956,7 +956,7 @@ Software testing involves execution of a software component or system component 
 2. Responds correctly to all kinds of inputs.
 3. Performs its functions within an acceptable time.
 4. Is sufficiently usable.
-5. Can be installed and run in its intended evironment, and
+5. Can be installed and run in its intended environment, and
 6. Achieves the general result its stakeholders desire.
 
 #### Unit Testing
@@ -965,6 +965,26 @@ Software testing involves execution of a software component or system component 
 
 ![](experiments/assets/unit_testing.png)
 
+In most programming languages, **a 'unit' is a function, a subroutine, a method or property.** And can be automated.
+
+Unit test is test **isolates and verifies** individual units of source code.
+
+Characteristics of a unit test are:
+
+- Unit test **executes fast**.
+- Code in each Unit test is **as small as possible**. Unit test helps maintain **readability** of the code.
+- Each Unit test is **independent** of other unit tests.
+- Each Unit test makes assertions about only **one logical concept**.
+
+#### Regression testing
+
+**Regression Test:** Whenever developers change or modify their software, a small tweak can have unexpected consequences. **Regression testing is testing existing software application.**
+
+The **purpose of regression test is to catch bugs that may have been accidentally introduced** into a new build or release candidate. **Its purpose is to ensure that previously eradicated bugs continue to stay dead.**
+
+During a regression test, by re-running testing scenarios that were originally scripted when known problems were first fixed, one can make sure that any new changes to an application **haven't resulted in a regression or caused components that formerly worked to fail.**
+
+As software is updated or changes, emergence of new faults and/or re-emergence of old faults is quite common. Sometimes re-emergence occurs because a fix gets list through poor revision control practices (or simple human error in revision control). Therefore, it is considered good coding practice, to record a test that exposes the bug and re-run that test regularly after subsequent changes to the program. Thus regression test suites tend to grow with each found defect, test automation is frequently involved.
 
 ### Time-boxes, Time frames
 
