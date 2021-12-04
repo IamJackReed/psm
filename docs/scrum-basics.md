@@ -986,6 +986,17 @@ During a regression test, by re-running testing scenarios that were originally s
 
 As software is updated or changes, emergence of new faults and/or re-emergence of old faults is quite common. Sometimes re-emergence occurs because a fix gets list through poor revision control practices (or simple human error in revision control). Therefore, it is considered good coding practice, to record a test that exposes the bug and re-run that test regularly after subsequent changes to the program. Thus regression test suites tend to grow with each found defect, test automation is frequently involved.
 
+A Regression test **can be automated**.
+
+#### Functional Testing
+
+**Functional Test** is a form of testing that deals with **how applications functions**. Traditionally implemented by a team of testers, **independent of developers**.
+
+Functional testing is a type of **black-box** testing that bases its tests cases on the specifications of the software component under test. Functions are tested by feeding them input and examining the output, and internal program structure is rarely considered (unlike **white-box** testing).
+
+Functional tests **can be automated**.
+
+#### Inte
 ### Time-boxes, Time frames
 
 - The Scrum Master serves the Scrum Team in several ways, including ensuring that all Scrum events take place and are positive, productive, and kept within the time-box.
