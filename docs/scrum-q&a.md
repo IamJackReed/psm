@@ -439,3 +439,44 @@ Beyond quality and ability to release. Integrity coupled with leadership team, m
 Scrum Master often has more success when they partner with leadership and management. Expectations around what can be accomplished in a single conversation.
 >
 Learning what they need / helping them to adopt Scrum. Typically control or at least influence boundaries for Scrum Teams, for example, budget, team formation, etc. What do management need?
+
+---
+
+### The Agile Manifesto infers people over processes. Isn’t a Scrum Master whose role is meant to “enforce” the process — therefore a contradiction?
+>
+☝️
+Scrum Masters do not wield any real authority but act as servant leaders. The Scrum Team
+does not report to them. This question is meant to help reveal whether your candidate
+understands that their role is to lead — as opposed to managing — the team. Asking this
+question is also likely to reveal why your candidate is interested in the role of a Scrum
+Master in the first place.
+
+>Examples that emphasise facilitation and support:
+- “SM's are true leaders for the Scrum Team. It’s my job to make them successful.”
+- “SM's are neither a project manager nor a people manager. I support the Scrum Team in
+achieving self-Management. I do not tell people what to do.”
+- “SM's are the Scrum Team’s facilitator as teacher, coach, or mentor, encouraging them
+to excel as a team.
+
+---
+
+### What indicators might there be that demonstrate agile practices are working for your organisation, and which of these would demonstrate your efforts are succeeding?
+>
+☝️
+There is no standard or general definition of ‘agile success’ that can be used to measure an
+organisation’s agility. Every organisation must develop its own criteria. Increasing team velocity
+is usually not considered to be a meaningful indicator.
+>
+However, although mostly indirect, there are various indicators that may be useful in
+determining success:
+- Products delivered to customers are resulting in higher retention rates, better conversion rates, increased customer lifetime value, and similar improvements to the business. (A successful Scrum Team provides a good return on investment to the business.)
+- The improved organisational agility allows pursuing market opportunities successfully, which previously would have been considered futile.
+- There has been a reduced allocation of resources to low-value products.
+- Lead time, from validated idea to shipped product, has been reduced.
+- The cycle time10 for hypotheses validations has been reduced, speeding up the product discovery process.
+- Improved team happiness is exhibited by reduced churn and an increase in the number of referrals from team members.
+- Increased competitiveness in the war for talent can be demonstrated by an increase in the number of experienced people willing to join the organisation.
+- Increased software quality can be demonstrated by measurably less technical debt11, fewer bugs, and less time spent on maintenance.
+- There is greater respect among stakeholders for the product delivery teams.
+- Stakeholders are increasingly participating in events, for example, during the Sprint
+Review.
