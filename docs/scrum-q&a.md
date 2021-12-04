@@ -446,16 +446,13 @@ Learning what they need / helping them to adopt Scrum. Typically control or at l
 >
 ☝️
 Scrum Masters do not wield any real authority but act as servant leaders. The Scrum Team
-does not report to them. This question is meant to help reveal whether your candidate
-understands that their role is to lead — as opposed to managing — the team. Asking this
-question is also likely to reveal why your candidate is interested in the role of a Scrum
-Master in the first place.
+does not report to them.
 
->Examples that emphasise facilitation and support:
-- “SM's are true leaders for the Scrum Team. It’s my job to make them successful.”
-- “SM's are neither a project manager nor a people manager. I support the Scrum Team in
+>Examples that emphasise this:
+- SM's are true leaders for the Scrum Team. It’s my job to make them successful.”
+- SM's are neither a project manager nor a people manager. I support the Scrum Team in
 achieving self-Management. I do not tell people what to do.”
-- “SM's are the Scrum Team’s facilitator as teacher, coach, or mentor, encouraging them
+- SM's are the Scrum Team’s facilitator as teacher, coach, or mentor, encouraging them
 to excel as a team.
 
 ---
@@ -464,8 +461,7 @@ to excel as a team.
 >
 ☝️
 There is no standard or general definition of ‘agile success’ that can be used to measure an
-organisation’s agility. Every organisation must develop its own criteria. Increasing team velocity
-is usually not considered to be a meaningful indicator.
+organisation’s agility. Agile and Agility are separate things. Every organisation must develop its own criteria. Increasing team velocity is usually not considered to be a meaningful indicator since it does not represent 'value'.
 >
 However, although mostly indirect, there are various indicators that may be useful in
 determining success:
@@ -473,7 +469,7 @@ determining success:
 - The improved organisational agility allows pursuing market opportunities successfully, which previously would have been considered futile.
 - There has been a reduced allocation of resources to low-value products.
 - Lead time, from validated idea to shipped product, has been reduced.
-- The cycle time10 for hypotheses validations has been reduced, speeding up the product discovery process.
+- The cycle time for hypotheses validations has been reduced, speeding up the product discovery process.
 - Improved team happiness is exhibited by reduced churn and an increase in the number of referrals from team members.
 - Increased competitiveness in the war for talent can be demonstrated by an increase in the number of experienced people willing to join the organisation.
 - Increased software quality can be demonstrated by measurably less technical debt11, fewer bugs, and less time spent on maintenance.
