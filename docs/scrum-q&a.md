@@ -472,7 +472,7 @@ determining success:
 - The cycle time for hypotheses validations has been reduced, speeding up the product discovery process.
 - Improved team happiness is exhibited by reduced churn and an increase in the number of referrals from team members.
 - Increased competitiveness in the war for talent can be demonstrated by an increase in the number of experienced people willing to join the organisation.
-- Increased software quality can be demonstrated by measurably less technical debt11, fewer bugs, and less time spent on maintenance.
+- Increased software quality can be demonstrated by measurably less technical debt, fewer bugs, and less time spent on maintenance.
 - There is greater respect among stakeholders for the product delivery teams.
 - Stakeholders are increasingly participating in events, for example, during the Sprint
 Review.
