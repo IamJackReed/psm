@@ -996,7 +996,52 @@ Functional testing is a type of **black-box** testing that bases its tests cases
 
 Functional tests **can be automated**.
 
-#### Inte
+#### Integration Testing
+
+**Integration Test**, also known as Integration and Testing (I&T), is a type of testing in which **program units are combined and with tested groups. Testing is down in multiple ways**.
+
+Integration testing is performed **on modules that are unit tested first** and then integration testing defines whether the combination of modules give the desired output or not.
+
+Integration test is a **test of multiple units of Functionality**.
+
+Integration test **can be automated**.
+
+#### Exploratory testing
+
+**Exploratory Test** is all about discovery, investigation, and learning. **It is based on personal freedom and responsibility** of the individual tester. It is defined as a type of testing **where Test cases are not created in advance,** but **testers check the system on the fly**. They may note down ideas about what to test before test execution. The focus of exploratory is more on testing as a 'Thinking' activity.
+
+Exploratory tests **cannot be automated.**
+
+#### Smoke Testing
+
+**Smoke Testing**, also known as 'Build Verification Testing', is a type of software testing **that comprises of a non-exhaustive set of tests** thats aim is to ensure that the most important functions work.
+
+The result of Smoke testing is **used to decide if a build is stable enough to proceed with further testing.**
+
+#### Black Box Testing
+
+**Black Box Testing**, also known as 'Behavioural Testing', is a testing method in which the **internal structure /design/implementation of the item being tested is not known to the tester.**
+
+Black Box Testing example: A tester, without knowledge of the internal structures of a website, would test the web pages by using a browser; providing inputs (clicks, keystrokes) and then verifying the outputs against the expected outcome.
+
+#### White Box Testing
+
+**White Box Testing**, also known as 'Clear Box Testing, Open Box Testing, Glass Box Testing, Transparent Box Testing, Code-Based Testing or Structural Testing'.
+
+White Box Testing is a software testing method in which the **internal structure /design/implementation of the item being tested is known to the tester.**
+
+#### Performance Testing
+
+**Performance Testing** is defined as a type of software testing to ensure software applications will perform well under their expected workload.
+
+Features and functionality supported by a software system is not the only concern. A software application's performance like its response time, reliability, resource usgae and scalability do matter. The goal of performance testing is not to find bugs but to eliminate performance bottlenecks. The focus is about checking a software program's:
+
+- **Speed** - Determines whether the application responds quickly
+- **Scalability** - Determines maximum user load the software application can handle.
+- **Stability** - Determines if the application is stable under varying loads.
+
+In Scrum, **Performance Testing at the beginning of the development process and continuation of testing is carried through the whole evolution of the application.**
+
 ### Time-boxes, Time frames
 
 - The Scrum Master serves the Scrum Team in several ways, including ensuring that all Scrum events take place and are positive, productive, and kept within the time-box.
