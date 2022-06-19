@@ -11,7 +11,7 @@ Workshop patterns to help find a suitable workshop using a collection of activit
 {: .fs-6 .fw-300 }
 
 
-[Is it clear what the team is working towards?](https://iamjackreed.github.io/deck/examples/starting){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Is the biggest problem knwon?](https://iamjackreed.github.io/deck/examples/starting){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 [Yes](http://example.com/){: .btn .fs-3 }
 [No](http://example.com/){: .btn .fs-3 }
