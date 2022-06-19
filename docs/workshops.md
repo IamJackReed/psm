@@ -13,5 +13,5 @@ Workshop patterns to help find a suitable workshop using a collection of activit
 
 [Is it clear what the team is working towards?](https://iamjackreed.github.io/deck/examples/starting){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-[Yes](http://example.com/){: .btn .fs-3 }
-[No](http://example.com/){: .btn .fs-3 }
+[Yes](https://iamjackreed.github.io/psm/docs/workshops/is-the-biggest-problem-known?/){: .btn .fs-3 }
+[No](https://iamjackreed.github.io/psm/docs/workshops/goals/){: .btn .fs-3 }
