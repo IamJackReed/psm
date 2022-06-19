@@ -50,5 +50,3 @@ Origin: Whitmore, Sir J. (2019) Coaching for Performance. London, Brealey
 ## Objectives and Key Results
 ## Sailboat
 ## Sticky Steps
-
-[Go Back](https://iamjackreed.github.io/psm/docs/workshops/){: .btn .fs-3 }
