@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Workshops
-nav_order: 8
+title: Goals
+nav_order: 1
 ---
 
 # Goals
