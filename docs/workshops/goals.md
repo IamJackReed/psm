@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Goals
+parent: Workshops
 nav_order: 1
 ---
 

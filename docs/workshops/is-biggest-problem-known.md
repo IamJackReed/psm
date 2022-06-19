@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Is the biggest problem known?
-nav_order: 8
+parent: Workshops
+nav_order: 2
 ---
 
 [Is the biggest problem known?](){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
