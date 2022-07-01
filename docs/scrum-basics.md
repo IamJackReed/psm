@@ -1042,6 +1042,70 @@ Features and functionality supported by a software system is not the only concer
 
 In Scrum, **Performance Testing at the beginning of the development process and continuation of testing is carried through the whole evolution of the application.**
 
+#### Code Coverage
+
+**Code Coverage** is a measure which describes the degree to which the source code of the program has been tested.
+
+Code Coverage is a form of **white box testing** which shows the areas of the program **exercised by a set of test cases**.
+
+Measuring Code Coverage can help increase software quality **by identifying untested parts of codes in a product/application**.
+
+Code Coverage is **NOT a** metric of code quality.
+
+Code Coverage shows the **ratio between the tested and untested code**.
+
+Code Coverage **does not tell you anything** about the quality of the tests being run.
+
+Some Advantages of Code Coverage are:
+ - It offers a **Quantitative Measurement**.
+ - It defines the degree to which the source code has been tested.
+
+Some shortcomings of Code Coverage as a measurement are:
+- Code Coverage **does not ensure that the most important or highest risk areas of the code are being exercised by tests**.
+- Code Coverage does not necessarily **provide functional coverage**.
+- Code Coverage could create incentives to write tests that simply increase code coverage, **rather than tests that find bugs without increasing coverage**.
+
+Note:
+
+- There are always parts of code that are hard to test(eg.I/O, multithreaded and network code)and the benefits of testing them might not always worth the costs.
+- Writing unit tests for every new feature or change(preferably before writing production code, by practicing Test Driven Development)helps achieve Code Coverage automatically.
+
+#### Types of Code Coverage - Statement Coverage
+
+**Statement Coverage**: Statement Coverage is a white box test design technique which involves execution of all the statements(executable)in the source code, at least once.
+
+In any software, the source code is made up of a wide variety of elements like operators, functions, loops, exceptional handlers, etc. The goal of Statement Coverage is to cover all the possible path's, line, and statement in the code.
+
+![](assets/scrum-basics-2040f925.png)
+
+What is covered by Statement Coverage Code Coverage?
+- Unused Statements
+- Dead Code
+- Unused Branches.
+
+#### Types of Code Coverage - Decision Coverage
+
+**Decision Coverage**: Decision Coverage is a white box test design technique which reports the true or false outcomes of all the Boolean expressions, present in a code.
+
+![](assets/scrum-basics-95fc1145.png)
+
+#### Types of Code Coverage - Branch Coverage
+
+**Branch Coverage**: In Branch Coverage, every **possible outcome** from a code module is tested. For example, if the outcomes are Pay a Car Claim VS Deny a Car Claim, both Paying, and Denying a Car Claim are tested.
+
+By using Branch coverage method, one can also measure the fraction of
+independent code segments.It also helps you to find out which is sections of code don't have any branches.
+
+![](assets/scrum-basics-a74eddc6.png)
+
+#### Types of Code Coverage - Condition Coverage
+
+**Condition Coverage**: Conditional coverage or expression coverage will reveal how the variables or subexpressions **in the conditional statement are evaluated**. In this coverage expressions with **logical operands** are only considered.
+
+Example: An expression with a Boolean operation like AND,OR,XOR indicate the total number of possibilities.
+
+![](assets/scrum-basics-1eb804db.png)
+
 ### Time-boxes, Time frames
 
 - The Scrum Master serves the Scrum Team in several ways, including ensuring that all Scrum events take place and are positive, productive, and kept within the time-box.
