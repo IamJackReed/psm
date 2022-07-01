@@ -1070,7 +1070,7 @@ Note:
 - There are always parts of code that are hard to test(eg.I/O, multithreaded and network code)and the benefits of testing them might not always worth the costs.
 - Writing unit tests for every new feature or change(preferably before writing production code, by practicing Test Driven Development)helps achieve Code Coverage automatically.
 
-#### Types of Code Coverage - Statement Coverage
+##### Types of Code Coverage - Statement Coverage
 
 **Statement Coverage**: Statement Coverage is a white box test design technique which involves execution of all the statements(executable)in the source code, at least once.
 
@@ -1083,13 +1083,13 @@ What is covered by Statement Coverage Code Coverage?
 - Dead Code
 - Unused Branches.
 
-#### Types of Code Coverage - Decision Coverage
+##### Types of Code Coverage - Decision Coverage
 
 **Decision Coverage**: Decision Coverage is a white box test design technique which reports the true or false outcomes of all the Boolean expressions, present in a code.
 
 ![](assets/scrum-basics-95fc1145.png)
 
-#### Types of Code Coverage - Branch Coverage
+##### Types of Code Coverage - Branch Coverage
 
 **Branch Coverage**: In Branch Coverage, every **possible outcome** from a code module is tested. For example, if the outcomes are Pay a Car Claim VS Deny a Car Claim, both Paying, and Denying a Car Claim are tested.
 
@@ -1098,13 +1098,99 @@ independent code segments.It also helps you to find out which is sections of cod
 
 ![](assets/scrum-basics-a74eddc6.png)
 
-#### Types of Code Coverage - Condition Coverage
+##### Types of Code Coverage - Condition Coverage
 
 **Condition Coverage**: Conditional coverage or expression coverage will reveal how the variables or subexpressions **in the conditional statement are evaluated**. In this coverage expressions with **logical operands** are only considered.
 
 Example: An expression with a Boolean operation like AND,OR,XOR indicate the total number of possibilities.
 
 ![](assets/scrum-basics-1eb804db.png)
+
+#### Test Driven Development (TDD)
+
+**Test First Development** is also known as Test Driven Development(TDD).Test Driven Development is a development style in which **one writes the unit tests before writing the code**.
+
+**Test Driven Development is a Predictable, Incremental and Emergent** Software development approach/technique which relies **on Automated Test**.
+
+##### Test First Development
+
+"Test-Driven Development"**refers to a style of programming in which three activities are tightly interwoven:Writing Test,Coding and Refactoring**. Example:Test Driven Development for a feature/aspect of a program can be concisely described by the following:
+
+- Write a "Single" **Unit Test describing** an aspect of the program.
+- Run the test, which should fail because the program **lacks** that feature.
+- **Write"just enough"code** to make the test pass.
+- "Refactor"the code until it conforms to the **Simplicity Criteria**.
+- Repeat,"Accumulating"unit tests over time.
+
+![](assets/scrum-&-more-820517b4.png)
+
+A test written with Test-Driven Development **represents a technical requirement** that must be satisfied.
+
+Test-Driven Development is easier to implement in in applications designed to unit test.
+
+Benefits of Test-Driven Development:
+- It promotes good design and separation of concerns.
+- It improves quality and reduces bugs.
+- It leads to the construct of an automated test harness.
+- It speeds the overall development process.
+- IT reduces cost of maintenance over time.
+
+Note: Test Driven Development does not test the existing test cases/software before developing new functionality. It only tests the test cases written for the new functionality which needs to be developed.
+
+#### Acceptance Test Driven Development (ATDD)
+
+Acceptance Test Driven Development isaTest-First software development practice in which **acceptance criterias for new functionality are created before the implementation actually begins**.These acceptance tests are supported by examples and other necessary information.
+
+Acceptance Test Driven development is the **practice of expressing requirements as acceptance tests**.
+
+Acceptance Test Driven Development(ATDD)involves team members with different perspectives(customer, development, testing)collaborating to write acceptance criteria **in advance of implementing the corresponding functionality**.
+
+ATDD can be broken down in four stages:
+
+1) **Discuss** : In this stage of an ATDD cycle, the agile team along with the business stake holders gets into a discussion. The team develops a detailed understanding of the behaviour of the system from the user point of view in the discussion.And on the basis of the understanding, the agile team creates acceptance tests that can be executed either automatically or programmatically.
+
+**Distill**:In this stage of an ATDD cycle, the agile tries to implements the acceptance tests in an automatic testing framework.In this stage the team ensures that the tests are not just remain specifications but can be actually executed in the project.
+
+**Develop**:During this stage, the agile team follows a Test First Development TFD approach, i.e. they will first execute the tests, make sure what are making them fail and then proceed to write the code that will make the tests pass.
+
+**Demo**:In this stage of ATDD cycle, the agile team provides a demo to the business stake holders.In the demo, they can also indicate the tests they have run and the vulnerabilities they have been identified through the tests.
+
+![](assets/scrum-&-more-ce51c959.png)
+
+Test case creation is moved to the beginning of the cycle thus reducing defects and bug fixing effort as project progresses.
+
+Advanced practices of test-driven development can lead to Acceptance Test-driven development(ATDD)where the criteria specified by the customer are automated into **acceptance tests. This** then drive the traditional unit test-driven development(UTDD) process.
+
+#### Behaviour Driven Development (BDD)
+
+Behaviour Driven Development is a variation/extension of Test-Driven Development methodology, where the main **focus is on**:
+- Behavioural specifications of the product or application(or its features).
+- User and System Interactions
+
+When Behaviour Driven Development is adapted in a project, the technical nitty-gritty **aspects of the requirements and implementation are outlined in a business-oriented language**.
+
+Behaviour Driven Development uses Ubiquitous language that can be understood by the developers and stakeholders.
+
+#### Specifications by Example  
+
+Specification by example(SBE)is a **collaborative approach to defining requirements and business-oriented functional tests for software products, based on realistic examples instead of abstract statements**.
+
+Specification by Example is an agile software development practice based on Test Driven Development and Acceptance Test Driven Development.
+
+Specification by Example calls for using realistic examples from past experience instead of untested or abstract statements in the description of the desired functional behaviour.
+
+#### Difference Between ATDD, TDD and BDD
+
+- Test Driven Development(TDD)is technical in nature and is written in the same language the feature is implemented in.If the feature is implemented in Java, JUnit test cases are written.Whereas Behaviour Driven Development(BDD) & Acceptance Test Driven Development(ATDD)are written in simple English language.
+
+- The Test-Driven Development (TDD) approach focuses on the implementation of a feature. Behaviour Driven Development(BDD)focuses on the behaviour of the feature, and Acceptance Test Driven Development(ATDD) focuses on capturing the requirements (in form of acceptance criterias).
+
+- To implement TDD, one needs to have technical knowledge. Whereas Behaviour Driven Development (BDD) & Acceptance Test Driven Development(ATDD)do not require any technical knowledge. The beauty of Behaviour Driven Development (BDD) /Acceptance Test Driven Development (ATDD) lies in the fact that both technical, as well as non-technical people, can participate in developing the feature.
+
+- TDD,BDD and ATDD basically talk about the"test-First"approach, unlike the"test-last"approach used in
+traditional development methodologies.
+
+![](assets/scrum-&-more-9c62ed1f.png)
 
 ### Time-boxes, Time frames
 
