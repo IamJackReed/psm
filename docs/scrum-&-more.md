@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scrum Basics
+title: Scrum & More
 nav_order: 2
 ---
 
