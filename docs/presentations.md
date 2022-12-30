@@ -1,3 +1,7 @@
+<iframe src="//www.fxblue.com/fxblueview.aspx?id=330026604" width="..." height="..." frameborder="no">
+<a href="//www.fxblue.com">FX Blue - free tools and services for FX and CFD traders</a>
+</iframe>
+
 ---
 layout: default
 title: Presentations
