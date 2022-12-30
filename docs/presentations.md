@@ -1,6 +1,3 @@
-<iframe src="//www.fxblue.com/fxblueview.aspx?id=330026604" width="100%" height="100%" frameborder="no">
-</iframe>
-
 ---
 layout: default
 title: Presentations
